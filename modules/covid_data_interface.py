@@ -15,7 +15,9 @@ from handlers_logging import logger_interface
 app = Flask(__name__)
 # flask interface logging
 logging.basicConfig(filename='flask_logging.log', level=logging.INFO)
-pytest.main()
+#
+
+# pytest.main()
 
 
 class MyServer():
@@ -38,7 +40,6 @@ class MyServer():
         Returns:
             object: [A render function to decorate the template]
         """
-        self.schedule_widget_handling_running()  # run the schedules
         logger_covid_handler.info(scheduler_covid.queue)
         logger_news_handler.info(scheduler_news.queue)
         # run the schedules in the schedulers
@@ -242,6 +243,7 @@ class MyServer():
                 logger_interface.info(
                     update['two']+' schedule added to schedul_config')
             write_json(contents)  # add the schedule to the config file
+            self.schedule_widget_handling_running()  # run the schedules
         except KeyError:
             logger_interface.error('No data inputted in schedule form')
 
