@@ -3,7 +3,7 @@
 from config import *
 
 
-def test_config_openning():
+def test_config_opening():
     """[This is a function to test if the data in the config file is a dictionary]
     """
     assert isinstance(contents, dict)

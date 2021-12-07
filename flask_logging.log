@@ -1,0 +1,2332 @@
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638826848.9543803, priority=1, sequence=0, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638826850.08533, priority=1, sequence=1, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638826849.8876119, priority=1, sequence=0, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638826850.5613961, priority=1, sequence=1, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:40:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:40:50] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:40:58] "[32mGET /index?notif=Peta+Credlin%27s+apology+to+South+Sudanese+community+result+of+human+rights+commission+complaint+-+The+Guardian HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Peta Credlin's apology to South Sudanese community result of human rights commission complaint - The Guardian || article removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:40:58] "[32mGET /index/?notif=Peta+Credlin%27s+apology+to+South+Sudanese+community+result+of+human+rights+commission+complaint+-+The+Guardian HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638826850.08533, priority=1, sequence=1, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638826850.5613961, priority=1, sequence=1, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:00] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:02] "[32mGET /index?notif=8+new+Omicron+cases+detected+in+Alberta%2C+schools+may+have+been+exposed+-+Globalnews.ca HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:8 new Omicron cases detected in Alberta, schools may have been exposed - Globalnews.ca || article removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:02] "[32mGET /index/?notif=8+new+Omicron+cases+detected+in+Alberta%2C+schools+may+have+been+exposed+-+Globalnews.ca HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:02] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:06] "[32mGET /index?notif=Waterloo+Region+has+special+plans+in+store+for+Every+Dose+Counts+weekend+-+cjoy.com HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Waterloo Region has special plans in store for Every Dose Counts weekend - cjoy.com || article removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:06] "[32mGET /index/?notif=Waterloo+Region+has+special+plans+in+store+for+Every+Dose+Counts+weekend+-+cjoy.com HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:06] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:09] "[32mGET /index?notif=Man+with+no+vaccine+pass+violent+at+bar%3A+police+-+Otago+Daily+Times HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Man with no vaccine pass violent at bar: police - Otago Daily Times || article removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:09] "[32mGET /index/?notif=Man+with+no+vaccine+pass+violent+at+bar%3A+police+-+Otago+Daily+Times HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:09] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:11] "[32mGET /index?notif=Ottawa+Public+Health+quashes+false+rumour+of+child%27s+death+after+COVID-19+vaccine+-+CTV+Edmonton HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Ottawa Public Health quashes false rumour of child's death after COVID-19 vaccine - CTV Edmonton || article removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:11] "[32mGET /index/?notif=Ottawa+Public+Health+quashes+false+rumour+of+child%27s+death+after+COVID-19+vaccine+-+CTV+Edmonton HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:11] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:25] "[32mGET /index?update=21%3A42&two=covid+update+&covid-data=covid-data&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:25] "[32mGET /index/?update=21%3A42&two=covid+update+&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:logger_covid_handler:[Event(time=1638826945.1166966, priority=1, sequence=2, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638826945.1161966, priority=1, sequence=2, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:41:25] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:42:25] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:logger_covid_handler:[Event(time=1638826945.1166966, priority=1, sequence=2, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638826945.2908964, priority=1, sequence=3, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638826945.1161966, priority=1, sequence=2, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638826945.2903965, priority=1, sequence=3, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:covid update || removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:covid update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:42:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:42:28] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:43:28] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:43:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:43:28] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:44:29] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:44:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:44:29] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:03] "[32mGET /index?update=21%3A45&two=covid+update+&covid-data=covid-data&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:03] "[32mGET /index/?update=21%3A45&two=covid+update+&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:logger_covid_handler:[Event(time=1638827103.0256371, priority=1, sequence=4, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638827103.0256371, priority=1, sequence=4, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:covid update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:05] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:12] "[32mGET /index?update=21%3A46&two=covid+update+&covid-data=covid-data&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:12] "[32mGET /index/?update=21%3A46&two=covid+update+&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:logger_covid_handler:[Event(time=1638827172.5356522, priority=1, sequence=5, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638827172.5356522, priority=1, sequence=5, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:45:12] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:46:12] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:logger_covid_handler:[Event(time=1638827172.5356522, priority=1, sequence=5, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827172.6608598, priority=1, sequence=6, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638827172.5356522, priority=1, sequence=5, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827172.6608598, priority=1, sequence=6, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:covid update || removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:covid update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:46:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:46:15] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:47:15] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:47:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:47:15] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:15] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:15] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:39] "[32mGET /index?update=21%3A49&two=End-day+update&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:39] "[32mGET /index/?update=21%3A49&two=End-day+update&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day update repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day updatenew schedule created and running, with time delay60
+INFO:logger_covid_handler:[Event(time=1638827379.484537, priority=1, sequence=8, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:logger_news_handler:[Event(time=1638827379.484537, priority=1, sequence=8, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638913779.4840372, priority=1, sequence=7, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:48:39] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:49:39] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day update repeatnew schedule created and running, with time delay86400
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day updatenew schedule created and running, with time delay0
+INFO:logger_covid_handler:[Event(time=1638827379.484537, priority=1, sequence=8, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638827379.6510043, priority=1, sequence=10, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:logger_news_handler:[Event(time=1638827379.484537, priority=1, sequence=8, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638827379.6510043, priority=1, sequence=10, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638913779.4840372, priority=1, sequence=7, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:End-day update|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:End-day update|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:49:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:49:42] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:50:43] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day update repeatnew schedule created and running, with time delay172740
+INFO:logger_covid_handler:[Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0750277, priority=1, sequence=11, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:logger_news_handler:[Event(time=1638913779.4840372, priority=1, sequence=7, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0745268, priority=1, sequence=11, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:50:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:50:43] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:51:43] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day update repeatnew schedule created and running, with time delay172680
+INFO:logger_covid_handler:[Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0750277, priority=1, sequence=11, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.3045583, priority=1, sequence=12, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:logger_news_handler:[Event(time=1638913779.4840372, priority=1, sequence=7, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0745268, priority=1, sequence=11, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.3045583, priority=1, sequence=12, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:51:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:51:43] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:43] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:End-day update repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:End-day update repeatnew schedule created and running, with time delay172620
+INFO:logger_covid_handler:[Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0750277, priority=1, sequence=11, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.3045583, priority=1, sequence=12, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.5341103, priority=1, sequence=13, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:logger_news_handler:[Event(time=1638913779.4840372, priority=1, sequence=7, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0745268, priority=1, sequence=11, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.3045583, priority=1, sequence=12, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.5341103, priority=1, sequence=13, action=<function update_news_event at 0x0000026B8FC55F30>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:43] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:58] "[32mGET /index?update_item=End-day+update+repeat HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:End-day update repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:58] "[32mGET /index/?update_item=End-day+update+repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:52:58] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:53:58] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:53:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:53:58] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:54:58] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:54:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:54:58] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:55:58] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:55:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:55:59] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sccth\\OneDrive - University of Exeter\\Desktop\\University\\ECM1400 Programming\\ECM1400_SamuelThomas_CA\\modules\\covid_data_interface.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638827799.1179674, priority=1, sequence=0, action=<function schedule_event at 0x000001ACD3CAB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638827800.1356437, priority=1, sequence=1, action=<function schedule_event at 0x000001ACD3CAB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638827799.9235137, priority=1, sequence=0, action=<function update_news_event at 0x000001ACD34F5F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638827801.0021996, priority=1, sequence=1, action=<function update_news_event at 0x000001ACD34F5F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:56:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:56:34] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638827865.6048312, priority=1, sequence=0, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638827866.620283, priority=1, sequence=1, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638827866.4053032, priority=1, sequence=0, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638827867.7672474, priority=1, sequence=1, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:57:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:57:52] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:04] "[32mGET /index?update=21%3A58&two=covid+update+&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:04] "[32mGET /index/?update=21%3A58&two=covid+update+&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update  repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86400
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:covid update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:logger_covid_handler:[Event(time=1638827884.6913993, priority=1, sequence=3, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914284.6908996, priority=1, sequence=2, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638827884.6913993, priority=1, sequence=3, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914284.6903987, priority=1, sequence=2, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:covid update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:05] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:covid update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:11] "[32mGET /index/?update_item=covid+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:11] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:17] "[32mGET /index?update=21%3A59&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:17] "[32mGET /index/?update=21%3A59&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:logger_covid_handler:[Event(time=1638827957.24477, priority=1, sequence=5, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:17] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:27] "[32mGET /index?update=21%3A59&two=news+update+&repeat=repeat&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:27] "[32mGET /index/?update=21%3A59&two=news+update+&repeat=repeat&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update || schedule added to scheduler_news
+INFO:Logger_Interface:news update new schedule created and running, with time delay60
+INFO:logger_covid_handler:[Event(time=1638827957.24477, priority=1, sequence=5, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827967.8065736, priority=1, sequence=7, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.806074, priority=1, sequence=6, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638827967.8075745, priority=1, sequence=5, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update '}), Event(time=1638914367.8070745, priority=1, sequence=4, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:58:27] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:59:27] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86400
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86400
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update || schedule added to scheduler_news
+INFO:Logger_Interface:news update new schedule created and running, with time delay0
+INFO:logger_covid_handler:[Event(time=1638827957.24477, priority=1, sequence=5, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827967.8065736, priority=1, sequence=7, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827967.9426541, priority=1, sequence=9, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.806074, priority=1, sequence=6, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.941154, priority=1, sequence=8, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638827967.8075745, priority=1, sequence=5, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update '}), Event(time=1638827967.9436538, priority=1, sequence=7, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update '}), Event(time=1638914367.8070745, priority=1, sequence=4, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1638914367.9431534, priority=1, sequence=6, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:news update || removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:news update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:59:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 21:59:30] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:00:30] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay172740
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172740
+INFO:logger_covid_handler:[Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.806074, priority=1, sequence=6, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.941154, priority=1, sequence=8, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1639000770.7208543, priority=1, sequence=10, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638914367.8070745, priority=1, sequence=4, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1638914367.9431534, priority=1, sequence=6, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1639000770.7213542, priority=1, sequence=8, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:00:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:00:30] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:covid update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:17] "[32mGET /index/?update_item=covid+update++repeat HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172680
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[Event(time=1638914367.8070745, priority=1, sequence=4, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1638914367.9431534, priority=1, sequence=6, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1639000757.659434, priority=1, sequence=9, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1639000770.7213542, priority=1, sequence=8, action=<function update_news_event at 0x0000021E41AC5F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:17] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:19] "[32mGET /index?update_item=news+update++repeat HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:news update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:19] "[32mGET /index/?update_item=news+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:01:19] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638828139.3557487, priority=1, sequence=0, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828139.9958065, priority=1, sequence=1, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638828139.8184018, priority=1, sequence=0, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828140.6490352, priority=1, sequence=1, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:14] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:30] "[32mGET /index?update=22%3A05&two=news+update+&repeat=repeat&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:30] "[32mGET /index/?update=22%3A05&two=news+update+&repeat=repeat&news=news HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86580
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update || schedule added to scheduler_news
+INFO:Logger_Interface:news update new schedule created and running, with time delay180
+INFO:logger_covid_handler:[Event(time=1638828139.3557487, priority=1, sequence=0, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828139.9958065, priority=1, sequence=1, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638828139.8184018, priority=1, sequence=0, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828140.6490352, priority=1, sequence=1, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828330.5461934, priority=1, sequence=3, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'news update '}), Event(time=1638914730.5441933, priority=1, sequence=2, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:31] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:52] "[32mGET /index?update_item=news+update+ HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:news update || schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:52] "[32mGET /index/?update_item=news+update+ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86580
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[Event(time=1638914730.5441933, priority=1, sequence=2, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1638914752.9429514, priority=1, sequence=4, action=<function update_news_event at 0x000001951BD75F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:02:52] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\sccth\\OneDrive - University of Exeter\\Desktop\\University\\ECM1400 Programming\\ECM1400_SamuelThomas_CA\\modules\\covid_data_interface.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86520
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86520
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:04:09] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay86460
+INFO:logger_covid_handler:[Event(time=1638828254.068022, priority=1, sequence=0, action=<function schedule_event at 0x0000020C62B7B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828255.3574739, priority=1, sequence=1, action=<function schedule_event at 0x0000020C62B7B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638828255.1603427, priority=1, sequence=0, action=<function update_news_event at 0x0000020C62415F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828256.5461555, priority=1, sequence=2, action=<function update_news_event at 0x0000020C62415F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638914705.367006, priority=1, sequence=1, action=<function update_news_event at 0x0000020C62415F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1638914706.5551562, priority=1, sequence=3, action=<function update_news_event at 0x0000020C62415F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1638914709.723202, priority=1, sequence=4, action=<function update_news_event at 0x0000020C62415F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:04:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:04:09] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172740
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172740
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172740
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172740
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172680
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172680
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:07:07] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172680
+INFO:logger_covid_handler:[Event(time=1638828430.8994145, priority=1, sequence=0, action=<function schedule_event at 0x0000019ACA5EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828431.9166324, priority=1, sequence=1, action=<function schedule_event at 0x0000019ACA5EB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638828431.7235663, priority=1, sequence=0, action=<function update_news_event at 0x0000019AC9E35F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828432.4874687, priority=1, sequence=2, action=<function update_news_event at 0x0000019AC9E35F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1639001101.924633, priority=1, sequence=1, action=<function update_news_event at 0x0000019AC9E35F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1639001102.494568, priority=1, sequence=3, action=<function update_news_event at 0x0000019AC9E35F30>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1639001107.3321116, priority=1, sequence=4, action=<function update_news_event at 0x0000019AC9E35F30>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:07:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:07:07] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172620
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172620
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172620
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update  repeat|| schedule added to scheduler_news
+INFO:Logger_Interface:news update  repeatnew schedule created and running, with time delay172620
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:08:19] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638828507.7539585, priority=1, sequence=0, action=<function schedule_event at 0x00000282CC29B910>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828508.4308462, priority=1, sequence=1, action=<function schedule_event at 0x00000282CC29B910>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638828508.2429323, priority=1, sequence=0, action=<function update_news_event at 0x00000282CBAE5EA0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828509.2521443, priority=1, sequence=2, action=<function update_news_event at 0x00000282CBAE5EA0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1639001118.4392147, priority=1, sequence=1, action=<function update_news_event at 0x00000282CBAE5EA0>, argument=(), kwargs={'update_name': 'news update  repeat'}), Event(time=1639001119.2611446, priority=1, sequence=3, action=<function update_news_event at 0x00000282CBAE5EA0>, argument=(), kwargs={'update_name': 'news update  repeat'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:08:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:08:19] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:news update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:06] "[32mGET /index/?update_item=news+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:06] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:10] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:11] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:14] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:22] "[32mGET /index?update=22%3A10&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:22] "[32mGET /index/?update=22%3A10&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638828622.8672822, priority=1, sequence=1, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638915022.8647814, priority=1, sequence=0, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:09:22] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:10:22] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638828622.8672822, priority=1, sequence=1, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638915022.8647814, priority=1, sequence=0, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:10:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:10:24] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:covid update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:10:36] "[32mGET /index/?update_item=covid+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:10:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:10:36] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:21] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:22] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:22] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:11:23] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638828767.8280435, priority=1, sequence=0, action=<function schedule_event at 0x0000024D5EA079A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828768.9229064, priority=1, sequence=1, action=<function schedule_event at 0x0000024D5EA079A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638828768.7280233, priority=1, sequence=0, action=<function update_news_event at 0x0000024D5E255F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638828769.7697284, priority=1, sequence=1, action=<function update_news_event at 0x0000024D5E255F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:12:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:12:44] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\sccth\\OneDrive - University of Exeter\\Desktop\\University\\ECM1400 Programming\\ECM1400_SamuelThomas_CA\\modules\\covid_data_interface.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:08] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:39] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:39] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:40] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2021 22:15:40] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay180
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+INFO:werkzeug: * Restarting with stat
+INFO:Logger_Interface:contrutor initiatied
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 235-627-147
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 17:12:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 17:12:35] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638901400.4629116, priority=1, sequence=0, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901401.808672, priority=1, sequence=1, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638901401.5966322, priority=1, sequence=0, action=<function update_news_event at 0x000001F3E9C45F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638901406.355108, priority=1, sequence=1, action=<function update_news_event at 0x000001F3E9C45F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:25] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:32] "[32mGET /index?update=18%3A24&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:32] "[32mGET /index/?update=18%3A24&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901472.5023227, priority=1, sequence=2, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638901406.355108, priority=1, sequence=1, action=<function update_news_event at 0x000001F3E9C45F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:33] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:41] "[32mGET /index?update=18%3A24&two=news+update+&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:news update  schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:news update || schedule added to scheduler_news
+INFO:Logger_Interface:news update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:41] "[32mGET /index/?update=18%3A24&two=news+update+&news=news HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901472.5023227, priority=1, sequence=2, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901481.360314, priority=1, sequence=3, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638901481.3613145, priority=1, sequence=2, action=<function update_news_event at 0x000001F3E9C45F30>, argument=(), kwargs={'update_name': 'news update '})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:23:41] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:24:41] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901472.5023227, priority=1, sequence=2, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901481.360314, priority=1, sequence=3, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638901481.3613145, priority=1, sequence=2, action=<function update_news_event at 0x000001F3E9C45F30>, argument=(), kwargs={'update_name': 'news update '})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:news update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:24:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:24:43] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638901502.8389094, priority=1, sequence=0, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901504.3046646, priority=1, sequence=1, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638901504.0794327, priority=1, sequence=0, action=<function update_news_event at 0x000001A501C35F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638901505.1815383, priority=1, sequence=1, action=<function update_news_event at 0x000001A501C35F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:25:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:25:01] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:25:17] "[32mGET /index?update=18%3A27&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86520
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay120
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:25:17] "[32mGET /index/?update=18%3A27&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901502.8389094, priority=1, sequence=0, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901504.3046646, priority=1, sequence=1, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901637.061437, priority=1, sequence=3, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638901504.0794327, priority=1, sequence=0, action=<function update_news_event at 0x000001A501C35F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638901505.1815383, priority=1, sequence=1, action=<function update_news_event at 0x000001A501C35F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:25:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:25:18] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:26:18] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901637.061437, priority=1, sequence=3, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:26:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:26:18] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:27:18] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901637.061437, priority=1, sequence=3, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:27:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:27:19] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:28:19] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:28:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:28:19] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:19] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:19] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:covid update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:27] "[32mGET /index/?update_item=covid+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:27] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:37] "[32mGET /index?update=18%3A30&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:37] "[32mGET /index/?update=18%3A30&two=covid+update+&repeat=repeat&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901837.3490942, priority=1, sequence=5, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988237.348594, priority=1, sequence=4, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:37] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Why the UK risks missing its Covid booster target - Telegraph.co.uk || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:47] "[32mGET /index/?notif=Why+the+UK+risks+missing+its+Covid+booster+target+-+Telegraph.co.uk HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901837.3490942, priority=1, sequence=5, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988237.348594, priority=1, sequence=4, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:29:47] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:30:47] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638901837.3490942, priority=1, sequence=5, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988237.348594, priority=1, sequence=4, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+INFO:logger_news_handler:[]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:30:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:30:48] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:covid update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:30:50] "[32mGET /index/?update_item=covid+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:30:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 18:30:50] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638905603.4208062, priority=1, sequence=0, action=<function schedule_event at 0x0000019F99115F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905604.257976, priority=1, sequence=1, action=<function schedule_event at 0x0000019F99115F30>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638905603.997825, priority=1, sequence=0, action=<function update_news_event at 0x0000019F97AA51B0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905605.1808565, priority=1, sequence=1, action=<function update_news_event at 0x0000019F97AA51B0>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:28] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:38] "[32mGET /index?update=19%3A34&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:38] "[32mGET /index/?update=19%3A34&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905678.7621255, priority=1, sequence=2, action=<function schedule_event at 0x0000019F99115F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:38] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:covid update || schedule removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:52] "[32mGET /index/?update_item=covid+update+ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:33:53] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638905714.9748578, priority=1, sequence=0, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905716.3602965, priority=1, sequence=1, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638905715.8662093, priority=1, sequence=0, action=<function update_news_event at 0x000001DC561351B0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905717.676669, priority=1, sequence=1, action=<function update_news_event at 0x000001DC561351B0>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:13] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:17] "[32mGET /index?update=19%3A36&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:17] "[32mGET /index/?update=19%3A36&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905714.9748578, priority=1, sequence=0, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905716.3602965, priority=1, sequence=1, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638905715.8662093, priority=1, sequence=0, action=<function update_news_event at 0x000001DC561351B0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905717.676669, priority=1, sequence=1, action=<function update_news_event at 0x000001DC561351B0>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:19] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:26] "[32mGET /index?notif=HIV+infections+drop%2C+but+Covid+hampers+fight%3A+WHO+-+Arab+News HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:HIV infections drop, but Covid hampers fight: WHO - Arab News || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:26] "[32mGET /index/?notif=HIV+infections+drop%2C+but+Covid+hampers+fight%3A+WHO+-+Arab+News HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:26] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:28] "[32mGET /index?notif=HIV+infections+drop+in+Africa%2C+but+Covid+hampers+fight%3A+WHO+-+Hindustan+Times HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:HIV infections drop in Africa, but Covid hampers fight: WHO - Hindustan Times || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:28] "[32mGET /index/?notif=HIV+infections+drop+in+Africa%2C+but+Covid+hampers+fight%3A+WHO+-+Hindustan+Times HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:28] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "[32mGET /index?notif=Man+City+trail+RB+Leipzig+in+Champions+League+with+Liverpool+to+come%2C+Covid+hits+Chelsea%2C+Tottenham+could...+-+talkSPORT.com HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Man City trail RB Leipzig in Champions League with Liverpool to come, Covid hits Chelsea, Tottenham could... - talkSPORT.com || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "[32mGET /index/?notif=Man+City+trail+RB+Leipzig+in+Champions+League+with+Liverpool+to+come%2C+Covid+hits+Chelsea%2C+Tottenham+could...+-+talkSPORT.com HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "[32mGET /index?notif=Irish+health+officials+confirm+5%2C590+new+Covid+cases+as+Tony+Holohan+issues+Christmas+warning+-+Irish+Mirror HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Irish health officials confirm 5,590 new Covid cases as Tony Holohan issues Christmas warning - Irish Mirror || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "[32mGET /index/?notif=Irish+health+officials+confirm+5%2C590+new+Covid+cases+as+Tony+Holohan+issues+Christmas+warning+-+Irish+Mirror HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:29] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:30] "[32mGET /index?notif=A+year+of+COVID+vaccines%3A+how+the+UK+pinned+its+hopes+on+the+jab+–+and+why+those+hopes+are+under+threat+-+The+Conversation+UK HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:A year of COVID vaccines: how the UK pinned its hopes on the jab – and why those hopes are under threat - The Conversation UK || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:30] "[32mGET /index/?notif=A+year+of+COVID+vaccines%3A+how+the+UK+pinned+its+hopes+on+the+jab+–+and+why+those+hopes+are+under+threat+-+The+Conversation+UK HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:30] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:31] "[32mGET /index?notif=Covid+numbers+announced+with+Leo+Varadkar+labelling+fourth+wave+as+‘bitter+disappointment’+-+Dublin+Live HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Covid numbers announced with Leo Varadkar labelling fourth wave as ‘bitter disappointment’ - Dublin Live || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:31] "[32mGET /index/?notif=Covid+numbers+announced+with+Leo+Varadkar+labelling+fourth+wave+as+‘bitter+disappointment’+-+Dublin+Live HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:31] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:31] "[32mGET /index?notif=Covid+19+Delta+outbreak%3A+Revealed+-+The+public+health+advice+to+have+Auckland+unshackled+by+now+and+why+Jacinda+Ardern+rejected+it+-+New+Zealand+Herald HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Covid 19 Delta outbreak: Revealed - The public health advice to have Auckland unshackled by now and why Jacinda Ardern rejected it - New Zealand Herald || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:31] "[32mGET /index/?notif=Covid+19+Delta+outbreak%3A+Revealed+-+The+public+health+advice+to+have+Auckland+unshackled+by+now+and+why+Jacinda+Ardern+rejected+it+-+New+Zealand+Herald HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:35:32] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay0
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:42] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905800.5134275, priority=1, sequence=2, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905801.3900793, priority=1, sequence=3, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905809.1035807, priority=1, sequence=0, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905810.5029333, priority=1, sequence=1, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638905810.2849476, priority=1, sequence=0, action=<function update_news_event at 0x0000019004F45F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905811.3805773, priority=1, sequence=1, action=<function update_news_event at 0x0000019004F45F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:43] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:56] "[32mGET /index?update=19%3A39&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:covid update  schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay180
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:56] "[32mGET /index/?update=19%3A39&two=covid+update+&covid-data=covid-data HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905809.1035807, priority=1, sequence=0, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905810.5029333, priority=1, sequence=1, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905996.6436567, priority=1, sequence=4, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638905810.2849476, priority=1, sequence=0, action=<function update_news_event at 0x0000019004F45F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905811.3805773, priority=1, sequence=1, action=<function update_news_event at 0x0000019004F45F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:36:57] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay120
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:covid update new schedule created and running, with time delay120
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638905840.0448797, priority=1, sequence=0, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905841.118985, priority=1, sequence=1, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905951.1280394, priority=1, sequence=2, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905952.4540234, priority=1, sequence=3, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638905840.8755705, priority=1, sequence=0, action=<function update_news_event at 0x000002A751AC5F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905842.4385197, priority=1, sequence=1, action=<function update_news_event at 0x000002A751AC5F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:37:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:37:18] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:38:18] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905840.0448797, priority=1, sequence=0, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905841.118985, priority=1, sequence=1, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905951.1280394, priority=1, sequence=2, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905952.4540234, priority=1, sequence=3, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[Event(time=1638905840.8755705, priority=1, sequence=0, action=<function update_news_event at 0x000002A751AC5F30>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638905842.4385197, priority=1, sequence=1, action=<function update_news_event at 0x000002A751AC5F30>, argument=(), kwargs={'update_name': 'test'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:38:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:38:20] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:21] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638905951.1280394, priority=1, sequence=2, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905952.4540234, priority=1, sequence=3, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '})]
+INFO:logger_news_handler:[]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:21] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:25] "[32mGET /index?notif=Covid%3A+Taoiseach+says+there+were+87%2C000+no+shows+for+boosters+last+week+-+The+Irish+Times HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Covid: Taoiseach says there were 87,000 no shows for boosters last week - The Irish Times || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:25] "[32mGET /index/?notif=Covid%3A+Taoiseach+says+there+were+87%2C000+no+shows+for+boosters+last+week+-+The+Irish+Times HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:25] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "[32mGET /index?notif=Michigan+sets+hospitalization+record%2C+leads+nation+in+new+coronavirus+cases+per+capita+-+CNN HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Michigan sets hospitalization record, leads nation in new coronavirus cases per capita - CNN || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "[32mGET /index/?notif=Michigan+sets+hospitalization+record%2C+leads+nation+in+new+coronavirus+cases+per+capita+-+CNN HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "[32mGET /index?notif=Ontario+COVID-19+cases%2C+ICUs+will+rise+even+without+Omicron+variant%3A+new+modelling+-+Globalnews.ca HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Ontario COVID-19 cases, ICUs will rise even without Omicron variant: new modelling - Globalnews.ca || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "[32mGET /index/?notif=Ontario+COVID-19+cases%2C+ICUs+will+rise+even+without+Omicron+variant%3A+new+modelling+-+Globalnews.ca HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:27] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[32mGET /index?notif=Ontario+extends+pause+on+reopening+plan+as+COVID-19+situation+worsens+-+CTV+News+Toronto HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Ontario extends pause on reopening plan as COVID-19 situation worsens - CTV News Toronto || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[32mGET /index/?notif=Ontario+extends+pause+on+reopening+plan+as+COVID-19+situation+worsens+-+CTV+News+Toronto HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[32mGET /index?notif=COVID-19+spread+more+by+men%2C+loud+talkers%3A+study+-+Fox+News HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:COVID-19 spread more by men, loud talkers: study - Fox News || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[32mGET /index/?notif=COVID-19+spread+more+by+men%2C+loud+talkers%3A+study+-+Fox+News HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[32mGET /index?notif=Possible+COVID-19+exposure+at+Belleville%27s+Quinte+Bowl+-+County+Weekly+News HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Possible COVID-19 exposure at Belleville's Quinte Bowl - County Weekly News || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:28] "[32mGET /index/?notif=Possible+COVID-19+exposure+at+Belleville%27s+Quinte+Bowl+-+County+Weekly+News HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[32mGET /index?notif=Stocks+Open+Higher%3B+Oil+Gains+on+Omicron+Optimism+-+The+Wall+Street+Journal HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Stocks Open Higher; Oil Gains on Omicron Optimism - The Wall Street Journal || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[32mGET /index/?notif=Stocks+Open+Higher%3B+Oil+Gains+on+Omicron+Optimism+-+The+Wall+Street+Journal HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[32mGET /index?notif=Ontario+reports+928+new+coronavirus+cases+and+9+new+deaths+-+CP24+Toronto%27s+Breaking+News HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Ontario reports 928 new coronavirus cases and 9 new deaths - CP24 Toronto's Breaking News || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[32mGET /index/?notif=Ontario+reports+928+new+coronavirus+cases+and+9+new+deaths+-+CP24+Toronto%27s+Breaking+News HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:29] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "[32mGET /index?notif=Travellers+from+abroad+required+to+undergo+Covid-19+tests+-+The+Sun+Daily HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:Travellers from abroad required to undergo Covid-19 tests - The Sun Daily || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "[32mGET /index/?notif=Travellers+from+abroad+required+to+undergo+Covid-19+tests+-+The+Sun+Daily HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "[32mGET /index?notif=COVID-19+closes+another+Kitchener+elementary+school+-+Globalnews.ca HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:COVID-19 closes another Kitchener elementary school - Globalnews.ca || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "[32mGET /index/?notif=COVID-19+closes+another+Kitchener+elementary+school+-+Globalnews.ca HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:30] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[32mGET /index?notif=PHL+posts+lowest+daily+COVID+tally+in+17+months+-+BusinessWorld+Online HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:PHL posts lowest daily COVID tally in 17 months - BusinessWorld Online || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[32mGET /index/?notif=PHL+posts+lowest+daily+COVID+tally+in+17+months+-+BusinessWorld+Online HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[32mGET /index?notif=The+businesses+and+areas+which+could+introduce+a+vaccine+mandate+in+South+Africa%3A+expert+-+BusinessTech HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:The businesses and areas which could introduce a vaccine mandate in South Africa: expert - BusinessTech || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[32mGET /index/?notif=The+businesses+and+areas+which+could+introduce+a+vaccine+mandate+in+South+Africa%3A+expert+-+BusinessTech HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[32mGET /index?notif=NZ+Woman+who+thought+Covid+was+%27just+the+flu%27+warns+Kiwi%27s+of+her+mistake+-+Daily+Mail HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands news removal
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:Logger_Interface:NZ Woman who thought Covid was 'just the flu' warns Kiwi's of her mistake - Daily Mail || article removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[32mGET /index/?notif=NZ+Woman+who+thought+Covid+was+%27just+the+flu%27+warns+Kiwi%27s+of+her+mistake+-+Daily+Mail HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:39:31] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:csv file opened and formatted
+INFO:logger_covid_handler:Covid CSV file processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:Logger_Interface:constructor initiated
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:test|| schedule added to scheduler_news
+INFO:Logger_Interface:constructor initiated
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:logger_covid_handler:[Event(time=1638906094.336978, priority=1, sequence=0, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638906095.6106038, priority=1, sequence=1, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'})]
+INFO:logger_news_handler:[Event(time=1638906095.3237247, priority=1, sequence=0, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638906096.2387526, priority=1, sequence=1, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'test'})]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:41:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:41:27] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:41:45] "[32mGET /index?update=19%3A42&two=Mid-day+update+&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 308 -
+INFO:Logger_Interface:user demands new schedule to be added
+INFO:Logger_Interface:schedule added to schedul_config
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:Mid-day update  repeat|| schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:Mid-day update  repeatnew schedule created and running, with time delay86460
+INFO:Logger_Interface:schedule time calculated
+INFO:logger_news_handler:Mid-day update || schedule added to scheduler_news
+INFO:logger_covid_handler:schedule added to scheduler_covid
+INFO:Logger_Interface:Mid-day update new schedule created and running, with time delay60
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:41:45] "[32mGET /index/?update=19%3A42&two=Mid-day+update+&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638906094.336978, priority=1, sequence=0, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638906095.6106038, priority=1, sequence=1, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638906165.6693637, priority=1, sequence=3, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638992565.6643643, priority=1, sequence=2, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638906095.3237247, priority=1, sequence=0, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638906096.2387526, priority=1, sequence=1, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'test'}), Event(time=1638906165.6683636, priority=1, sequence=3, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638992565.6633637, priority=1, sequence=2, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:test|| removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:41:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:41:47] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:42:47] "[32mGET /index/ HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[Event(time=1638906165.6693637, priority=1, sequence=3, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638992565.6643643, priority=1, sequence=2, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+INFO:logger_news_handler:[Event(time=1638906165.6683636, priority=1, sequence=3, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638992565.6633637, priority=1, sequence=2, action=<function update_news_event at 0x0000020EF33951B0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:Covid API data collected
+INFO:logger_covid_handler:JSON API covid data processed
+INFO:logger_covid_handler:schedule removed from scheduler_covid
+INFO:logger_news_handler:News API collected and processed
+INFO:logger_news_handler:Articles have been filtered and processed
+INFO:logger_news_handler:ARTCILES updated
+INFO:logger_news_handler:Mid-day update || removed from scheduler_news
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:42:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:42:48] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -
+INFO:Logger_Interface:user demands sched removal
+INFO:Logger_Interface:Mid-day update  repeat|| schedule removed
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:43:06] "[32mGET /index/?update_item=Mid-day+update++repeat HTTP/1.1[0m" 302 -
+INFO:logger_covid_handler:[]
+INFO:logger_news_handler:[]
+INFO:Logger_Interface:Flask website decorated
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:43:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2021 19:43:06] "[36mGET /static/images/covid.jpg HTTP/1.1[0m" 304 -

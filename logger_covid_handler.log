@@ -1,0 +1,1259 @@
+2021-12-06 21:34:16,614:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:34:16,614:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:34:17,118:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:34:17,118:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:34:17,766:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:34:17,766:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:34,563:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:34,564:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:35,008:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:35,008:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:35,193:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:35,194:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:35,273:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:35,275:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:35,275:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:35,437:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:35,439:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:40:35,441:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:36,371:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:36,373:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:36,373:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:36,532:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:36,534:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:40:36,537:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:38,362:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:38,362:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:38,582:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:38,582:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:38,696:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:38,696:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:38,769:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:38,771:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:38,771:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:38,952:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:38,954:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:40:38,956:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:39,902:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:39,904:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:40:39,904:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:40:40,082:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:40,085:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:40:40,089:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:49,519:INFO:covid_data_interface:home:42:[Event(time=1638826848.9543803, priority=1, sequence=0, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638826850.08533, priority=1, sequence=1, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 21:40:49,765:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:49,765:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:49,944:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:49,944:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:49,945:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:40:58,383:INFO:covid_data_interface:home:42:[Event(time=1638826850.08533, priority=1, sequence=1, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 21:40:59,632:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:59,632:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:59,800:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:40:59,800:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:40:59,802:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:41:02,926:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:41:06,241:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:41:09,087:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:41:11,228:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:41:25,116:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:41:25,116:INFO:covid_data_interface:home:42:[Event(time=1638826945.1166966, priority=1, sequence=2, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-06 21:42:25,290:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:42:25,291:INFO:covid_data_interface:home:42:[Event(time=1638826945.1166966, priority=1, sequence=2, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638826945.2908964, priority=1, sequence=3, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-06 21:42:26,843:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:42:26,843:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:42:27,364:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:42:27,364:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:42:27,366:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:42:27,533:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:42:27,534:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:42:27,689:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:42:27,690:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:42:27,691:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:43:28,879:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:44:29,042:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:45:03,025:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:45:03,026:INFO:covid_data_interface:home:42:[Event(time=1638827103.0256371, priority=1, sequence=4, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-06 21:45:04,627:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:45:04,627:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:45:05,178:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:45:05,178:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:45:05,179:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:45:12,535:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:45:12,535:INFO:covid_data_interface:home:42:[Event(time=1638827172.5356522, priority=1, sequence=5, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-06 21:46:12,660:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:46:12,660:INFO:covid_data_interface:home:42:[Event(time=1638827172.5356522, priority=1, sequence=5, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827172.6608598, priority=1, sequence=6, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-06 21:46:13,928:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:46:13,928:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:46:14,097:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:46:14,097:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:46:14,099:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:46:14,280:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:46:14,281:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:46:14,452:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:46:14,452:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:46:14,453:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:47:15,334:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:48:15,516:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:48:39,484:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:48:39,484:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:48:39,485:INFO:covid_data_interface:home:42:[Event(time=1638827379.484537, priority=1, sequence=8, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-06 21:49:39,650:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:49:39,651:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:49:39,651:INFO:covid_data_interface:home:42:[Event(time=1638827379.484537, priority=1, sequence=8, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638827379.6510043, priority=1, sequence=10, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-06 21:49:41,207:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:49:41,208:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:49:41,510:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:49:41,510:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:49:41,512:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:49:41,763:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:49:41,763:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:49:42,036:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:49:42,036:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:49:42,038:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:50:43,075:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:50:43,075:INFO:covid_data_interface:home:42:[Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0750277, priority=1, sequence=11, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-06 21:51:43,304:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:51:43,304:INFO:covid_data_interface:home:42:[Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0750277, priority=1, sequence=11, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.3045583, priority=1, sequence=12, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-06 21:52:43,534:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:52:43,534:INFO:covid_data_interface:home:42:[Event(time=1638913779.484537, priority=1, sequence=7, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638913779.6505039, priority=1, sequence=9, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.0750277, priority=1, sequence=11, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.3045583, priority=1, sequence=12, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1639000183.5341103, priority=1, sequence=13, action=<function schedule_event at 0x0000026B9040B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-06 21:52:58,429:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:53:58,607:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:54:58,776:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:55:58,966:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:56:28,464:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:28,464:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:28,748:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:28,749:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:28,861:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:28,862:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:56:28,939:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:28,941:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:28,941:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:56:29,116:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:29,117:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:56:29,120:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:29,938:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:29,941:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:29,941:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:56:30,133:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:30,135:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:56:30,141:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:34,690:INFO:covid_data_interface:home:42:[Event(time=1638827799.1179674, priority=1, sequence=0, action=<function schedule_event at 0x000001ACD3CAB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638827800.1356437, priority=1, sequence=1, action=<function schedule_event at 0x000001ACD3CAB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 21:56:50,091:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:50,091:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:50,353:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:50,354:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:50,559:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:50,559:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:56:50,723:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:50,727:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:50,727:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:56:50,941:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:50,944:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:56:50,952:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:56:51,816:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:51,821:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:56:51,822:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:56:51,995:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:56:52,000:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:56:52,010:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:11,040:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:11,041:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:11,214:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:11,214:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:11,435:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:11,436:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:11,621:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:11,625:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:11,625:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:11,817:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:11,820:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:57:11,829:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:12,661:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:12,666:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:12,667:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:12,874:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:12,878:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:57:12,889:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:31,267:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:31,267:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:31,439:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:31,440:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:31,557:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:31,558:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:31,631:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:31,633:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:31,633:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:31,792:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:31,794:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:57:31,797:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:32,628:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:32,631:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:32,631:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:32,853:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:32,855:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:57:32,861:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:35,042:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:35,042:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:35,238:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:35,238:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:35,351:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:35,351:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:35,424:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:35,426:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:35,427:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:35,602:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:35,604:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:57:35,608:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:36,420:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:36,424:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 21:57:36,424:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 21:57:36,618:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:36,620:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:57:36,624:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:51,623:INFO:covid_data_interface:home:42:[Event(time=1638827865.6048312, priority=1, sequence=0, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638827866.620283, priority=1, sequence=1, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 21:57:51,841:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:51,842:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:52,024:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:52,024:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:52,025:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:57:52,198:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:52,199:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:52,362:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:57:52,363:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:57:52,364:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:58:04,690:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:58:04,691:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:58:04,691:INFO:covid_data_interface:home:42:[Event(time=1638827884.6913993, priority=1, sequence=3, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914284.6908996, priority=1, sequence=2, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 21:58:05,112:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:58:05,112:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:58:05,460:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:58:05,460:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:58:05,462:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:58:11,524:INFO:covid_data_interface:home:42:[]
+2021-12-06 21:58:17,244:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:58:17,244:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:58:17,245:INFO:covid_data_interface:home:42:[Event(time=1638827957.24477, priority=1, sequence=5, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 21:58:27,806:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:58:27,806:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:58:27,807:INFO:covid_data_interface:home:42:[Event(time=1638827957.24477, priority=1, sequence=5, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827967.8065736, priority=1, sequence=7, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.806074, priority=1, sequence=6, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 21:59:27,941:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:59:27,942:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 21:59:27,944:INFO:covid_data_interface:home:42:[Event(time=1638827957.24477, priority=1, sequence=5, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827967.8065736, priority=1, sequence=7, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638827967.9426541, priority=1, sequence=9, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.806074, priority=1, sequence=6, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.941154, priority=1, sequence=8, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 21:59:29,241:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:59:29,242:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:59:29,439:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:59:29,440:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:59:29,441:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:59:29,667:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:59:29,668:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:59:29,845:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:59:29,846:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:59:29,848:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 21:59:30,023:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:59:30,024:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:59:30,187:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 21:59:30,187:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 21:59:30,188:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 22:00:30,720:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:00:30,721:INFO:covid_data_interface:home:42:[Event(time=1638914357.2442698, priority=1, sequence=4, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.806074, priority=1, sequence=6, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1638914367.941154, priority=1, sequence=8, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'}), Event(time=1639000770.7208543, priority=1, sequence=10, action=<function schedule_event at 0x0000021E4227B9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 22:01:17,659:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:01:19,459:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:02:05,302:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:05,302:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:05,637:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:05,637:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:05,743:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:05,743:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:02:05,813:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:05,816:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:05,816:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:02:06,002:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:06,004:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:02:06,008:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:07,148:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:07,151:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:07,152:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:02:07,346:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:07,348:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:02:07,352:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:08,659:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:08,660:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:08,814:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:08,814:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:09,089:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:09,089:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:02:09,165:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:09,167:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:09,167:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:02:09,354:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:09,355:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:02:09,358:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:09,832:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:09,835:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:02:09,835:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:02:09,992:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:09,995:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:02:10,002:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:14,341:INFO:covid_data_interface:home:42:[Event(time=1638828139.3557487, priority=1, sequence=0, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828139.9958065, priority=1, sequence=1, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 22:02:30,546:INFO:covid_data_interface:home:42:[Event(time=1638828139.3557487, priority=1, sequence=0, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828139.9958065, priority=1, sequence=1, action=<function schedule_event at 0x000001951C52B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 22:02:30,790:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:30,791:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:30,973:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:30,973:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:30,975:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 22:02:31,132:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:31,133:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:31,322:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:02:31,323:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:02:31,324:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 22:02:52,943:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:03:36,798:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:03:36,798:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:03:37,134:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:03:37,134:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:03:41,811:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:03:41,812:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:03:42,004:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:03:42,004:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:03:42,221:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:03:42,222:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:03:42,393:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:03:42,397:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:03:42,398:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:03:42,574:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:03:42,577:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:03:42,586:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:03:43,175:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:03:43,179:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:03:43,179:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:03:43,367:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:03:43,371:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:03:43,382:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:00,204:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:00,204:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:00,369:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:00,369:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:00,476:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:00,477:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:04:00,551:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:00,553:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:00,554:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:04:00,732:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:00,735:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:04:00,737:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:01,614:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:01,618:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:01,619:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:04:01,794:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:01,796:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:04:01,802:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:03,442:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:03,443:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:03,603:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:03,603:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:03,815:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:03,816:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:04:03,886:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:03,888:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:03,888:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:04:04,066:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:04,068:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:04:04,072:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:05,174:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:05,176:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:04:05,177:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:04:05,354:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:04:05,357:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:04:05,362:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:04:09,723:INFO:covid_data_interface:home:42:[Event(time=1638828254.068022, priority=1, sequence=0, action=<function schedule_event at 0x0000020C62B7B9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828255.3574739, priority=1, sequence=1, action=<function schedule_event at 0x0000020C62B7B9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 22:06:16,544:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:16,545:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:17,077:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:17,078:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:17,286:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:17,287:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:06:17,452:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:17,456:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:17,457:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:06:17,650:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:17,653:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:06:17,661:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:18,180:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:18,184:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:18,185:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:06:18,389:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:18,393:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:06:18,404:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:56,989:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:56,989:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:57,168:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:57,169:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:57,284:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:57,284:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:06:57,386:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:57,388:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:57,388:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:06:57,550:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:57,552:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:06:57,555:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:06:58,136:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:58,139:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:06:58,139:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:06:58,313:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:06:58,316:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:06:58,323:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:07:00,334:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:07:00,335:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:07:00,533:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:07:00,533:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:07:00,659:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:07:00,660:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:07:00,728:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:07:00,730:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:07:00,731:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:07:00,897:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:07:00,899:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:07:00,902:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:07:01,737:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:07:01,740:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:07:01,740:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:07:01,914:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:07:01,916:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:07:01,921:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:07:07,334:INFO:covid_data_interface:home:42:[Event(time=1638828430.8994145, priority=1, sequence=0, action=<function schedule_event at 0x0000019ACA5EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828431.9166324, priority=1, sequence=1, action=<function schedule_event at 0x0000019ACA5EB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 22:08:13,693:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:13,694:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:14,038:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:14,038:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:14,149:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:14,150:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:14,223:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:14,225:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:14,226:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:14,413:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:14,415:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:14,418:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:15,570:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:15,572:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:15,573:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:15,732:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:15,735:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:15,742:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:17,111:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:17,112:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:17,304:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:17,304:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:17,470:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:17,471:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:17,537:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:17,539:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:17,539:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:17,752:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:17,753:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:17,756:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:18,256:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:18,258:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:18,258:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:18,428:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:18,430:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:18,436:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:19,727:INFO:covid_data_interface:home:41:[Event(time=1638828507.7539585, priority=1, sequence=0, action=<function schedule_event at 0x00000282CC29B910>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828508.4308462, priority=1, sequence=1, action=<function schedule_event at 0x00000282CC29B910>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 22:08:50,800:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:50,800:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:50,982:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:50,983:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:51,093:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:51,093:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:51,162:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:51,164:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:51,164:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:51,346:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:51,348:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:51,352:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:51,865:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:51,868:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:51,869:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:52,041:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:52,044:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:52,051:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:54,324:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:54,325:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:54,488:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:54,488:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:08:54,591:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:54,592:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:54,660:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:54,662:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:08:54,662:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:08:54,836:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:08:54,838:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:08:54,840:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:09:03,632:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:09:03,633:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:09:03,810:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:09:03,810:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:09:04,698:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:09:04,699:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:09:04,882:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:09:04,882:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:09:06,338:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:09:10,607:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:09:11,245:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:09:14,014:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:09:22,864:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:09:22,867:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:09:22,873:INFO:covid_data_interface:home:42:[Event(time=1638828622.8672822, priority=1, sequence=1, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638915022.8647814, priority=1, sequence=0, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 22:10:23,000:INFO:covid_data_interface:home:42:[Event(time=1638828622.8672822, priority=1, sequence=1, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638915022.8647814, priority=1, sequence=0, action=<function schedule_event at 0x0000019241D4B910>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-06 22:10:24,347:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:10:24,348:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:10:24,674:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:10:24,675:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:10:24,677:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-06 22:10:36,722:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:11:15,836:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:11:15,837:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:11:16,029:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:11:16,029:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:11:17,212:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:11:17,212:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:11:17,384:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:11:17,385:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:11:21,336:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:11:22,261:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:11:22,805:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:11:23,198:INFO:covid_data_interface:home:42:[]
+2021-12-06 22:12:33,555:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:33,556:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:33,891:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:33,891:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:33,997:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:33,998:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:12:34,077:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:34,079:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:34,080:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:12:34,241:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:34,243:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:12:34,246:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:35,056:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:35,059:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:35,060:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:12:35,215:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:35,217:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:12:35,222:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:37,276:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:37,277:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:37,454:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:37,454:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:37,569:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:37,570:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:12:37,637:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:37,638:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:37,639:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:12:37,826:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:37,828:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:12:37,832:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:38,741:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:38,744:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-06 22:12:38,744:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-06 22:12:38,920:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:12:38,922:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-06 22:12:38,927:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:12:44,033:INFO:covid_data_interface:home:44:[Event(time=1638828767.8280435, priority=1, sequence=0, action=<function schedule_event at 0x0000024D5EA079A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638828768.9229064, priority=1, sequence=1, action=<function schedule_event at 0x0000024D5EA079A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-06 22:13:43,830:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:13:43,831:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:13:44,019:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:13:44,020:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:15:01,822:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:15:01,822:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:15:02,166:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:15:02,166:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:15:02,980:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:15:02,981:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:15:03,160:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-06 22:15:03,160:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-06 22:15:08,274:INFO:covid_data_interface:home:43:[]
+2021-12-06 22:15:39,342:INFO:covid_data_interface:home:43:[]
+2021-12-06 22:15:39,887:INFO:covid_data_interface:home:43:[]
+2021-12-06 22:15:40,381:INFO:covid_data_interface:home:43:[]
+2021-12-06 22:15:40,877:INFO:covid_data_interface:home:43:[]
+2021-12-07 12:02:25,146:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:02:25,155:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:02:25,663:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:02:25,664:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:02:25,907:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 12:02:25,908:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 12:02:26,068:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 12:02:26,072:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 12:02:26,073:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 12:02:26,261:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:02:26,264:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 12:02:26,272:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:02:26,793:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 12:02:26,797:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 12:02:26,797:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 12:02:26,967:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:02:26,972:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 12:02:26,981:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:03:29,489:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:03:29,490:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:03:29,689:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:03:29,690:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:03:30,451:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:03:30,451:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:03:30,626:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:03:30,626:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:03:42,115:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:03:42,116:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:03:42,303:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:03:42,304:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:04:27,693:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:04:27,694:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:04:28,411:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:04:28,411:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:17:52,300:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:17:52,301:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:17:52,501:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:17:52,502:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:17:52,507:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 12:32:36,377:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:32:36,379:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:32:36,975:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:32:36,976:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:33:49,478:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:33:49,479:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:33:50,406:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:33:50,407:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:33:51,865:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:33:51,866:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:33:52,244:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:33:52,245:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:36:20,058:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:36:20,060:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:36:20,764:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:36:20,765:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:39:51,787:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:39:51,791:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:39:52,692:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:39:52,694:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:40:13,959:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:40:13,961:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:40:15,330:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:40:15,331:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:41:16,159:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:41:16,161:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:41:16,903:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:41:16,904:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:41:19,647:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:41:19,648:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:41:22,108:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:41:22,109:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:43:44,852:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:43:44,856:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:43:45,657:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:43:45,659:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:46:01,763:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:46:01,767:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:46:02,383:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:46:02,384:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:46:26,153:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:46:26,156:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 12:46:26,752:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 12:46:26,753:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:12:32,290:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:12:32,290:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:12:32,801:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:12:32,802:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:12:33,601:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:12:33,602:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:12:33,775:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:12:33,775:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:12:35,603:INFO:covid_data_interface:home:43:[]
+2021-12-07 17:53:00,228:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:53:00,237:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:53:00,807:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:53:00,807:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:53:01,646:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:53:01,646:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:53:01,830:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:53:01,831:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:53:04,152:INFO:covid_data_interface:home:43:[]
+2021-12-07 17:53:14,001:INFO:covid_data_interface:home:43:[]
+2021-12-07 17:53:34,619:INFO:covid_data_interface:home:43:[]
+2021-12-07 17:56:02,308:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:56:02,310:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:56:02,791:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:56:02,792:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:56:10,775:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:56:10,775:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:56:10,964:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:56:10,964:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:56:12,046:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:56:12,046:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:56:12,236:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 17:56:12,236:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 17:56:14,091:INFO:covid_data_interface:home:43:[]
+2021-12-07 17:56:23,009:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:00:53,075:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:00:53,076:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:00:53,442:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:00:53,442:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:02:45,978:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:02:45,980:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:02:46,439:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:02:46,440:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:04:24,900:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:04:24,901:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:04:25,467:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:04:25,468:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:04:26,210:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:04:26,211:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:04:26,399:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:04:26,399:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:04:36,822:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:04:36,823:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:04:37,018:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:04:37,019:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:05:50,280:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:05:50,281:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:05:50,485:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:05:50,485:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:06:47,771:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:06:47,772:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:06:48,083:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:06:48,083:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:07:43,040:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:07:43,041:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:07:43,238:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:07:43,239:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:07:44,919:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:07:53,671:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:07:53,672:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:07:53,682:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:08:53,821:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:09:39,435:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:09:48,455:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:09:52,111:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:09:53,641:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:10:53,750:INFO:covid_data_interface:home:43:[Event(time=1638900653.6723945, priority=1, sequence=1, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638987053.6708927, priority=1, sequence=0, action=<function schedule_event at 0x000001F170EB52D0>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:10:54,144:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:10:54,145:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:10:54,276:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:10:54,276:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:10:54,473:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:10:54,473:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:10:54,579:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:10:54,579:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:10:54,582:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:10:55,337:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:10:55,337:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:11:38,888:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:11:38,889:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:11:39,094:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:11:39,094:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:11:39,100:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:11:40,743:INFO:covid_data_interface:home:43:[Event(time=1639073439.1001327, priority=1, sequence=0, action=<function schedule_event at 0x000002168B365360>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 18:11:43,912:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:12:29,195:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:12:29,197:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:12:29,504:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:12:29,505:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:12:32,417:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:13:00,374:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:00,375:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:00,569:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:00,570:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:22,503:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:22,504:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:22,701:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:22,701:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:28,415:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:28,416:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:28,663:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:28,663:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:30,598:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:13:49,912:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:49,913:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:50,094:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:13:50,095:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:13:53,008:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:14:04,749:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:14:04,755:INFO:covid_data_interface:home:43:[Event(time=1638900844.7494261, priority=1, sequence=0, action=<function schedule_event at 0x00000169292EB910>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:14:05,185:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:14:05,186:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:14:05,187:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:14:10,721:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:14:10,721:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:14:10,915:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:14:10,916:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:14:12,567:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:14:17,367:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:14:17,373:INFO:covid_data_interface:home:43:[Event(time=1638900917.367733, priority=1, sequence=0, action=<function schedule_event at 0x00000271F7607910>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:15:17,471:INFO:covid_data_interface:home:43:[Event(time=1638900917.367733, priority=1, sequence=0, action=<function schedule_event at 0x00000271F7607910>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:15:17,698:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:15:17,698:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:15:17,700:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:16:14,971:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:16:14,971:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:16:15,330:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:16:15,330:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:16:18,256:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:16:24,098:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:16:24,106:INFO:covid_data_interface:home:43:[Event(time=1638901044.0982616, priority=1, sequence=0, action=<function schedule_event at 0x000001B2D612B880>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:17:24,205:INFO:covid_data_interface:home:43:[Event(time=1638901044.0982616, priority=1, sequence=0, action=<function schedule_event at 0x000001B2D612B880>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:17:24,377:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:24,377:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:24,379:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:24,385:INFO:covid_data_interface:home:43:[Event(time=1638901044.3774776, priority=1, sequence=1, action=<function schedule_event at 0x000001B2D612B880>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901164.3789787, priority=1, sequence=3, action=<function schedule_event at 0x000001B2D612B880>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638987564.3779776, priority=1, sequence=2, action=<function schedule_event at 0x000001B2D612B880>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:17:24,409:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:17:24,410:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:17:24,581:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:17:24,581:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:17:24,592:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:17:24,593:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:17:24,594:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:17:24,779:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:17:24,779:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:17:24,780:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:17:45,157:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:17:45,157:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:17:45,534:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:17:45,534:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:17:45,536:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:45,537:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:47,933:INFO:covid_data_interface:home:43:[Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:17:58,395:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:58,396:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:58,397:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:17:58,403:INFO:covid_data_interface:home:43:[Event(time=1638901138.3971019, priority=1, sequence=4, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:18:04,736:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:04,736:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:04,737:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:04,743:INFO:covid_data_interface:home:43:[Event(time=1638901084.7370794, priority=1, sequence=7, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901138.3971019, priority=1, sequence=4, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901144.7365787, priority=1, sequence=6, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:18:04,939:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:18:04,939:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:18:05,131:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:18:05,131:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:18:05,132:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:18:16,034:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:16,035:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:16,042:INFO:covid_data_interface:home:43:[Event(time=1638901138.3971019, priority=1, sequence=4, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901144.7365787, priority=1, sequence=6, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901156.03504, priority=1, sequence=9, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987556.0345407, priority=1, sequence=8, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:18:22,362:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:22,362:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:22,363:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:22,369:INFO:covid_data_interface:home:43:[Event(time=1638901138.3971019, priority=1, sequence=4, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901144.7365787, priority=1, sequence=6, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901156.03504, priority=1, sequence=9, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901162.362883, priority=1, sequence=11, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901222.3633838, priority=1, sequence=12, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987556.0345407, priority=1, sequence=8, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987562.362883, priority=1, sequence=10, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:18:43,579:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:43,580:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:43,580:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:43,580:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:18:43,590:INFO:covid_data_interface:home:43:[Event(time=1638901138.3971019, priority=1, sequence=4, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901144.7365787, priority=1, sequence=6, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901156.03504, priority=1, sequence=9, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901162.362883, priority=1, sequence=11, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901183.5803962, priority=1, sequence=14, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901183.5808954, priority=1, sequence=16, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901222.3633838, priority=1, sequence=12, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901243.5803962, priority=1, sequence=15, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987556.0345407, priority=1, sequence=8, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987562.362883, priority=1, sequence=10, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987583.5798957, priority=1, sequence=13, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:19:43,774:INFO:covid_data_interface:home:43:[Event(time=1638901138.3971019, priority=1, sequence=4, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901144.7365787, priority=1, sequence=6, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901156.03504, priority=1, sequence=9, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901162.362883, priority=1, sequence=11, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901183.5803962, priority=1, sequence=14, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901183.5808954, priority=1, sequence=16, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638901185.537299, priority=1, sequence=1, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901222.3633838, priority=1, sequence=12, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901243.5803962, priority=1, sequence=15, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987556.0345407, priority=1, sequence=8, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987562.362883, priority=1, sequence=10, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987583.5798957, priority=1, sequence=13, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:19:44,152:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:44,152:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:44,555:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:44,555:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:44,556:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:19:44,746:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:44,746:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:44,943:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:44,943:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:44,944:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:19:45,129:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:45,130:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:45,333:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:45,333:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:45,334:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:19:45,517:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:45,517:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:45,706:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:45,706:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:45,707:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:19:45,896:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:45,896:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:46,093:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:46,093:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:46,094:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:19:46,285:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:46,286:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:46,472:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:46,472:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:46,473:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:19:46,657:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:46,657:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:46,846:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:19:46,846:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:19:46,847:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:20:48,767:INFO:covid_data_interface:home:43:[Event(time=1638901198.3966014, priority=1, sequence=3, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update'}), Event(time=1638901222.3633838, priority=1, sequence=12, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901243.5803962, priority=1, sequence=15, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987556.0345407, priority=1, sequence=8, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987562.362883, priority=1, sequence=10, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987583.5798957, priority=1, sequence=13, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:20:48,993:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:20:48,993:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:20:49,175:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:20:49,176:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:20:49,177:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:20:49,364:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:20:49,364:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:20:49,557:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:20:49,557:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:20:49,558:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:20:49,746:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:20:49,746:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:20:49,941:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:20:49,941:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:20:49,943:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:21:50,911:INFO:covid_data_interface:home:43:[Event(time=1638987544.7360797, priority=1, sequence=5, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987556.0345407, priority=1, sequence=8, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987562.362883, priority=1, sequence=10, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987583.5798957, priority=1, sequence=13, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987585.536299, priority=1, sequence=0, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'}), Event(time=1638987598.3956017, priority=1, sequence=2, action=<function schedule_event at 0x0000023A1412B9A0>, argument=(), kwargs={'update_name': 'End-day update repeat'})]
+2021-12-07 18:22:04,469:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:22:06,548:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:22:25,270:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:22:25,271:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:22:25,612:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:22:25,612:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:22:28,766:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:22:33,677:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:22:41,015:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:22:46,598:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:23:09,832:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:09,833:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:10,025:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:10,026:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:10,179:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:23:10,180:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:23:10,270:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:23:10,272:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:23:10,272:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:23:10,460:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:10,462:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:23:10,466:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:11,613:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:23:11,616:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:23:11,616:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:23:11,806:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:11,808:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:23:11,813:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:24,670:INFO:covid_data_interface:home:43:[Event(time=1638901400.4629116, priority=1, sequence=0, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901401.808672, priority=1, sequence=1, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-07 18:23:24,878:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:24,879:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:25,063:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:25,063:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:25,064:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:23:25,254:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:25,254:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:25,486:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:23:25,486:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:23:25,487:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:23:32,502:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:23:32,508:INFO:covid_data_interface:home:43:[Event(time=1638901472.5023227, priority=1, sequence=2, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:23:41,360:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:23:41,366:INFO:covid_data_interface:home:43:[Event(time=1638901472.5023227, priority=1, sequence=2, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901481.360314, priority=1, sequence=3, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:24:41,514:INFO:covid_data_interface:home:43:[Event(time=1638901472.5023227, priority=1, sequence=2, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638901481.360314, priority=1, sequence=3, action=<function schedule_event at 0x000001F3EA3FB9A0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 18:24:42,776:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:42,777:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:43,085:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:43,085:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:43,086:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:24:43,282:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:43,282:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:43,470:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:43,470:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:43,471:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:24:52,225:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:52,226:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:52,441:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:52,441:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:52,549:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:24:52,549:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:24:52,615:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:24:52,617:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:24:52,617:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:24:52,837:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:52,838:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:24:52,841:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:24:54,090:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:24:54,092:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:24:54,093:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:24:54,302:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:24:54,304:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:24:54,309:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:25:01,703:INFO:covid_data_interface:home:43:[Event(time=1638901502.8389094, priority=1, sequence=0, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901504.3046646, priority=1, sequence=1, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-07 18:25:17,060:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:25:17,061:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:25:17,067:INFO:covid_data_interface:home:43:[Event(time=1638901502.8389094, priority=1, sequence=0, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901504.3046646, priority=1, sequence=1, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638901637.061437, priority=1, sequence=3, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:25:17,287:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:25:17,287:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:25:17,477:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:25:17,478:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:25:17,479:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:25:17,662:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:25:17,662:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:25:17,848:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:25:17,848:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:25:17,849:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:26:18,292:INFO:covid_data_interface:home:43:[Event(time=1638901637.061437, priority=1, sequence=3, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:27:18,446:INFO:covid_data_interface:home:43:[Event(time=1638901637.061437, priority=1, sequence=3, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:27:18,814:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:27:18,815:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:27:19,179:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:27:19,179:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:27:19,186:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:28:19,331:INFO:covid_data_interface:home:43:[Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:29:19,486:INFO:covid_data_interface:home:43:[Event(time=1638988037.0609384, priority=1, sequence=2, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:29:27,468:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:29:37,348:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:29:37,349:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:29:37,356:INFO:covid_data_interface:home:43:[Event(time=1638901837.3490942, priority=1, sequence=5, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988237.348594, priority=1, sequence=4, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:29:47,255:INFO:covid_data_interface:home:43:[Event(time=1638901837.3490942, priority=1, sequence=5, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988237.348594, priority=1, sequence=4, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:30:47,391:INFO:covid_data_interface:home:43:[Event(time=1638901837.3490942, priority=1, sequence=5, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638988237.348594, priority=1, sequence=4, action=<function schedule_event at 0x000001A5023EB9A0>, argument=(), kwargs={'update_name': 'covid update  repeat'})]
+2021-12-07 18:30:47,701:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:30:47,701:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:30:48,031:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:30:48,032:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:30:48,033:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 18:30:50,101:INFO:covid_data_interface:home:43:[]
+2021-12-07 18:31:31,264:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:31:31,265:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:31:31,450:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:31:31,450:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:31:32,452:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:31:32,452:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:33:47,862:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:33:47,863:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:33:48,263:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:33:48,263:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:33:48,264:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:33:48,264:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:33:48,265:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:34:37,734:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:34:37,735:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:34:37,927:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:34:37,928:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:34:37,928:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:35:18,796:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:35:18,796:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:35:19,099:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:35:19,100:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:35:19,281:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:44:33,830:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:44:33,830:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:44:34,170:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:44:34,171:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:44:34,847:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:44:34,849:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:44:34,849:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:44:35,042:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:44:35,044:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:44:35,047:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:44:35,873:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:44:35,876:INFO:covid_data_handler:parse_csv_data:218:csv file opened and formatted
+2021-12-07 18:44:35,877:INFO:covid_data_handler:process_covid_csv_data:198:Covid CSV file processed
+2021-12-07 18:44:36,070:INFO:covid_data_handler:covid_API_request:147:Covid API data collected
+2021-12-07 18:44:36,072:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 18:44:36,076:INFO:covid_data_handler:process_covid_json_data:119:JSON API covid data processed
+2021-12-07 18:53:28,019:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 18:53:28,020:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 18:53:28,328:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 18:53:28,328:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 18:54:55,350:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 18:54:55,350:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 18:54:55,536:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 18:54:55,536:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:11:20,392:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:11:20,392:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:11:20,754:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:11:20,755:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:12,213:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:12,214:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:12,659:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:12,659:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:13,155:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:33:13,161:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:33:13,161:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:33:13,416:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:13,420:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:33:13,429:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:14,028:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:33:14,035:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:33:14,036:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:33:14,253:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:14,257:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:33:14,269:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:26,427:INFO:covid_data_interface:home:43:[Event(time=1638905603.4208062, priority=1, sequence=0, action=<function schedule_event at 0x0000019F99115F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905604.257976, priority=1, sequence=1, action=<function schedule_event at 0x0000019F99115F30>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-07 19:33:26,698:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:26,699:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:26,918:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:26,919:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:26,921:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:33:27,142:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:27,143:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:27,359:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:33:27,360:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:33:27,364:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:33:38,762:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:33:38,778:INFO:covid_data_interface:home:43:[Event(time=1638905678.7621255, priority=1, sequence=2, action=<function schedule_event at 0x0000019F99115F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:33:52,977:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:35:03,781:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:03,783:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:04,172:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:04,173:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:04,751:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:35:04,758:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:35:04,759:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:35:04,969:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:04,974:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:35:04,986:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:06,048:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:35:06,076:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:35:06,088:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:35:06,351:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:06,360:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:35:06,377:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:12,997:INFO:covid_data_interface:home:43:[Event(time=1638905714.9748578, priority=1, sequence=0, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905716.3602965, priority=1, sequence=1, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-07 19:35:17,612:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:35:17,626:INFO:covid_data_interface:home:43:[Event(time=1638905714.9748578, priority=1, sequence=0, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905716.3602965, priority=1, sequence=1, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:17,857:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:17,857:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:18,073:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:18,073:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:18,075:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:35:18,293:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:18,293:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:18,499:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:35:18,499:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:35:18,501:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:35:26,879:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:28,392:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:29,084:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:29,836:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:30,606:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:31,104:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:35:32,010:INFO:covid_data_interface:home:43:[Event(time=1638905777.6129856, priority=1, sequence=2, action=<function schedule_event at 0x000001DC577A5F30>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:36:38,357:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:38,358:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:38,665:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:38,665:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:38,900:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:36:38,904:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:36:38,904:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:36:39,101:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:39,103:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:36:39,108:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:40,300:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:36:40,303:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:36:40,304:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:36:40,500:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:40,502:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:36:40,508:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:40,513:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:36:41,390:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:36:42,378:INFO:covid_data_interface:home:43:[Event(time=1638905800.5134275, priority=1, sequence=2, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905801.3900793, priority=1, sequence=3, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905809.1035807, priority=1, sequence=0, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905810.5029333, priority=1, sequence=1, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-07 19:36:42,588:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:42,588:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:42,794:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:42,795:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:42,798:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:36:43,008:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:43,009:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:43,224:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:43,225:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:43,228:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:36:56,643:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:36:56,653:INFO:covid_data_interface:home:43:[Event(time=1638905809.1035807, priority=1, sequence=0, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905810.5029333, priority=1, sequence=1, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905996.6436567, priority=1, sequence=4, action=<function schedule_event at 0x00000190056FBB50>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:36:56,870:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:56,870:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:57,069:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:57,069:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:57,071:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:36:57,269:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:57,270:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:57,477:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:36:57,478:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:36:57,480:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:37:09,428:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:37:09,429:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:37:09,619:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:37:09,620:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:37:09,845:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:37:09,849:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:37:09,850:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:37:10,042:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:37:10,044:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:37:10,047:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:37:10,893:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:37:10,895:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:37:10,896:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:37:11,115:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:37:11,118:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:37:11,124:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:37:11,128:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:37:12,454:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:37:18,276:INFO:covid_data_interface:home:43:[Event(time=1638905840.0448797, priority=1, sequence=0, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905841.118985, priority=1, sequence=1, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905951.1280394, priority=1, sequence=2, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905952.4540234, priority=1, sequence=3, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:38:18,691:INFO:covid_data_interface:home:43:[Event(time=1638905840.0448797, priority=1, sequence=0, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905841.118985, priority=1, sequence=1, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638905951.1280394, priority=1, sequence=2, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905952.4540234, priority=1, sequence=3, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:38:19,068:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:38:19,069:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:38:19,423:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:38:19,442:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:38:19,445:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:38:19,642:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:38:19,643:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:38:19,847:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:38:19,848:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:38:19,851:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:39:21,013:INFO:covid_data_interface:home:43:[Event(time=1638905951.1280394, priority=1, sequence=2, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '}), Event(time=1638905952.4540234, priority=1, sequence=3, action=<function schedule_event at 0x000002A75227BBE0>, argument=(), kwargs={'update_name': 'covid update '})]
+2021-12-07 19:39:21,239:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:39:21,239:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:39:21,433:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:39:21,433:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:39:21,435:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:39:21,643:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:39:21,643:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:39:21,849:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:39:21,849:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:39:21,852:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:39:25,819:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:27,145:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:27,632:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:28,056:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:28,486:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:29,001:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:29,435:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:29,848:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:30,218:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:30,603:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:31,047:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:31,547:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:39:31,874:INFO:covid_data_interface:home:43:[]
+2021-12-07 19:41:23,232:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:23,233:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:23,611:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:23,611:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:24,102:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:41:24,108:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:41:24,108:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:41:24,332:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:24,336:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:41:24,346:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:25,360:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:41:25,367:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-07 19:41:25,369:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-07 19:41:25,604:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:25,610:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:41:25,626:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:26,681:INFO:covid_data_interface:home:43:[Event(time=1638906094.336978, priority=1, sequence=0, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638906095.6106038, priority=1, sequence=1, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'})]
+2021-12-07 19:41:45,664:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:41:45,669:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-07 19:41:45,687:INFO:covid_data_interface:home:43:[Event(time=1638906094.336978, priority=1, sequence=0, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638906095.6106038, priority=1, sequence=1, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'update test'}), Event(time=1638906165.6693637, priority=1, sequence=3, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638992565.6643643, priority=1, sequence=2, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 19:41:45,924:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:45,925:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:46,138:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:46,138:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:46,141:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:41:46,348:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:46,349:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:46,561:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:41:46,561:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:41:46,564:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:42:47,516:INFO:covid_data_interface:home:43:[Event(time=1638906165.6693637, priority=1, sequence=3, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update '}), Event(time=1638992565.6643643, priority=1, sequence=2, action=<function schedule_event at 0x0000020EF4A05F30>, argument=(), kwargs={'update_name': 'Mid-day update  repeat'})]
+2021-12-07 19:42:47,737:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:42:47,738:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:42:47,940:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-07 19:42:47,941:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-07 19:42:47,943:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-07 19:43:06,149:INFO:covid_data_interface:home:43:[]

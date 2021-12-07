@@ -1,7 +1,14 @@
 """[This is a function that handles the config file ie read/write commands ]
 """
 import json
-config_json = open('modules\config.json', 'r', encoding='UTF-8')
+
+
+'''try:
+    config_json = open('modules\config.json', 'r', encoding='UTF-8')
+except:
+    config_json = open('config.json', 'r', encoding='UTF-8')'''
+config_json = open('config.json', 'r', encoding='UTF-8')
+
 contents = json.load(config_json)
 key = contents["Profile"]['Key']
 headlines = contents["Profile"]['News']
@@ -30,5 +37,13 @@ def write_json(data: dict) -> None:
     Args:
         data (dict): [the new config files data]
     """    ''''''
-    with open('modules\config.json', 'w', encoding='UTF-8') as file:
+    with open('config.json', 'w', encoding='UTF-8') as file:
         json.dump(data, file, indent=2)
+
+
+'''    try:
+        with open('modules\config.json', 'w', encoding='UTF-8') as file:
+            json.dump(data, file, indent=2)
+    except:
+        with open('config.json', 'w', encoding='UTF-8') as file:
+            json.dump(data, file, indent=2)'''

@@ -36,7 +36,7 @@ def schedule_covid_updates(update_interval: int, update_name: str) -> None:
         update_name (str): [The schedules name]
     """
     scheduler_covid.enter(update_interval, 1, schedule_event, kwargs={
-        'update_name': update_name})  # Add the schedule to the coivd scheduler
+        'update_name': update_name})  # Add the schedule to the covid scheduler
     logger_covid_handler.info('schedule added to scheduler_covid')
 
 
@@ -72,7 +72,7 @@ def cumulative_data(json_data: list) -> int:
     total = 0
     count = 0
     while count != 7:
-        if json_data[i]["Daily Cases"] is None:
+        if json_data[i]["Daily Cases"] is None:  # skip the first value that is none type
             if count == 0:
                 count += 1
                 i += 1
@@ -102,17 +102,25 @@ def process_covid_json_data(covid_json_data: dict) -> dict:
     dict_frame = {}
     if covid_json_data != []:
         if location_type == 'Nation':  # The API request is national
+            # calculate the current hospital cases
             current_hospital_cases = find_latest_json_data(
                 covid_json_data, "New Hospital Admssions")
+            # calculate the total deaths
             total_deaths = find_latest_json_data(
                 covid_json_data, "Cumulative Deaths")
+            # calculate the total 7 day cases
             seven_days_cases = cumulative_data(covid_json_data)
         else:  # The API request is ltla
+            # calculate the current hospital cases
             current_hospital_cases = find_latest_json_data(
                 covid_json_data, "New Hospital Admssions")
+            # calculate the total deaths
             total_deaths = find_latest_json_data(
                 covid_json_data, "Cumulative Deaths")
+            # skip the first value as speciemin data
+            # calculate the total 7 day cases
             seven_days_cases = cumulative_data(covid_json_data[1:])
+    # Add the processed data to a dictionary
     dict_frame['7_days_infection'] = seven_days_cases
     dict_frame['Hospital_cases'] = current_hospital_cases
     dict_frame['Total_deaths'] = total_deaths
@@ -190,11 +198,14 @@ def process_covid_csv_data(covid_csv_data: list) -> int:
         if covid_csv_data[i][6] != '':
             if counter == 0:
                 i += 1
+            # cumulate the data for the past 7 days
             seven_days_cases += int(covid_csv_data[i][6])
             counter += 1
         i += 1
+    # find the latest total death count
     total_deaths = find_latest_entry(covid_csv_data, 4)
-    current_hospital_cases = find_latest_entry(covid_csv_data, 5)
+    current_hospital_cases = find_latest_entry(
+        covid_csv_data, 5)  # find the current hospital admissions
     logger_covid_handler.info('Covid CSV file processed')
     # return the processed covid 19 data
     return seven_days_cases, current_hospital_cases, total_deaths
@@ -209,18 +220,18 @@ def parse_csv_data(csv_filename: str) -> list:
     Returns:
         list: [A list containing the csv data]
     """
+    # read the file
     csv_filename = open(csv_filename, 'r', encoding='UTF-8').readlines()
     csv_list = []
     for line in csv_filename:
         line = line.rstrip()
-        line = line.split(',')
+        line = line.split(',')  # split by each comma
         csv_list.append(line)  # append each line of the csv file to a list
     logger_covid_handler.info('csv file opened and formatted')
     return csv_list  # return the csv file in a list format
 
 
 # assign my global variables the news API requests
-
 local_covid_data = process_covid_json_data(covid_API_request(location))
 national_covid_data = process_covid_json_data(covid_API_request(
     'England', 'Nation'))

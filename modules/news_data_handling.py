@@ -20,8 +20,7 @@ def update_news_event(update_name: str) -> None:
     """
     global ARTICLES
     # update the articles global variable
-    if filters != "":
-
+    if filters != "":  # check if the user has provided a custom filter
         ARTICLES = news_API_request(filters)
     else:
         ARTICLES = news_API_request()
@@ -82,10 +81,10 @@ def news_API_request(covid_terms: str = 'Covid COVID-19 coronavirus') -> dict:
     covid_articles = requests.get(
         'https://newsapi.org/v2/top-headlines?q=' +
         covid_terms+'&language='+news_language+'&apiKey='
-        + key)
+        + key)  # collect the news from the API
     logger_news_handler.info('News API collected and processed')
-    # returing the processed news API data
-    covid_articles = covid_articles.json()
+    # returning the processed news API data
+    covid_articles = covid_articles.json()  # get the data in a json format
     return process_news_api(covid_articles['articles'])
 
 

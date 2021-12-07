@@ -166,16 +166,34 @@
             
   <div class="section" id="readme-file">
 <h1>Readme File<a class="headerlink" href="#readme-file" title="Permalink to this headline">¶</a></h1>
-<p># <strong>INTRUCTIONS FOR COVID 19 DASHBOARD</strong></p>
+<p># <strong>INSTRUCTIONS FOR COVID 19 DASHBOARD</strong></p>
 <p>## <strong>INTRODUCTION</strong></p>
 <p>This program creates a COVID 19 dashboard with up-to-date information of current covid levels and relevant news on the status of the pandemic.
-The numeric data shown on the dashboard will be the total 7 day cases in your selected area along with a seperate amount for your country,
-the current hostpital addmissions and the total number of deaths in you country. On the right-hand side of the dashbaord will be a widget containing the
+The numeric data shown on the dashboard will be the total 7 day cases in your selected area along with a separate amount for your country,
+the current hospital admissions and the total number of deaths in you country. On the right-hand side of the dashboard will be a widget containing the
 latest news that relates to COVID 19; and on the left and lower centre will be a scheduling widget for you to create update schedules so that the data shown on
 the dashboard will update periodically.</p>
 <p>## <strong>PREREQUISITES:</strong></p>
 <ul class="simple">
 <li><p>Python 3.6 and above</p></li>
+</ul>
+<p>Dependencies that are not in the installation are:</p>
+<ul class="simple">
+<li><p>Libraries
+- logging
+- datetime
+- time
+- sched
+- requests</p></li>
+<li><p>Internal modules
+- config
+- handlers_logging
+- covid_data_handler
+- covid_news_handling
+- covid_data_interface</p></li>
+<li><p>Files
+- config.json
+- nation_2021-10-28.csv</p></li>
 </ul>
 <p>## <strong>MODULE INSTALLS FOR PROGRAM:</strong></p>
 <ul class="simple">
@@ -183,32 +201,33 @@ the dashboard will update periodically.</p>
 <li><p>pip install Flask</p></li>
 <li><p>pip install uk-covid19</p></li>
 <li><p>pip install newsapi-python</p></li>
+<li><p>pip install pytest</p></li>
 </ul>
 <p>## <strong>USING THE DASHBOARD</strong></p>
 <ul>
 <li><p>EXECUTING CODE:
 In order to execute the code you must execute the covid_data_interface.py file and then go to <a class="reference external" href="http://127.0.0.1:5000/">http://127.0.0.1:5000/</a></p></li>
 <li><p>LOCATION:
-Inorder to change the location used in the program and see relevant data to your locattion, you must edit the value for the key ‘Location’ in the config.json file.
+In-order to change the location used in the program and see relevant data to your location, you must edit the value for the key ‘Location’ in the config.json file.
 Once changed the appropriate data will appear after a restarting of the server (run code again).</p></li>
 <li><p>LANGUAGE:
-Inorder to change the langauge of the articles in the articles widget you can change this in the config file under the key ‘Lanaguage’</p></li>
+In-order to change the language of the articles in the articles widget you can change this in the config file under the key ‘Language’</p></li>
 <li><p>ARTICLE RETURNED:
 Once an article has been removed you are able to undo your action by going in the config file removing the article from the file.
-You are also able to change the articles collectecd by changing the filter key in the config file so that other news is returned</p></li>
+You are also able to change the articles collected by changing the filter key in the config file so that other news is returned</p></li>
 <li><p>NEWS WIDGET:
-The news widget allows you the user to permenantly remove news articles that you know longer want to see. once removed they will be stored in the config file for you
+The news widget allows you the user to permanently remove news articles that you know longer want to see. once removed they will be stored in the config file for you
 to allow back in or view if you remain interested in that article.
-To remove an article click the ‘X’ icon of the article you want removed and it will immediatly and permenantly be deleted.</p></li>
+To remove an article click the ‘X’ icon of the article you want removed and it will immediately and permanently be deleted.</p></li>
 <li><p>SCHEDULES WIDGET:
 The schedules widget allows for updates to the dashboards data to be scheduled. Within this there are 5 components.</p>
 <blockquote>
 <div><ol class="arabic simple">
 <li><p>Setting a time for your schedule; by clicking on the time entry field you can select a time for the future using the scroll wheel style provided</p></li>
 <li><p>Choosing a name for you schedule; by clicking on the name entry field and typing in the schedules name</p></li>
-<li><p>Selecting repeat; a schedule has the abilty to repeat itself so that is occurs 24hours ahead of the previous one. Select this option by ticking its box or not</p></li>
-<li><p>Update covid data; a schedule can be selected to update the covid 19 data on the dashbaord by selecting the tick box provided</p></li>
-<li><p>Upodate news data; a schedule can be selected to update the news data on the dashboard by selecting the tick box provided</p></li>
+<li><p>Selecting repeat; a schedule has the ability to repeat itself so that is occurs 24hours ahead of the previous one. Select this option by ticking its box or not</p></li>
+<li><p>Update covid data; a schedule can be selected to update the covid 19 data on the dashboard by selecting the tick box provided</p></li>
+<li><p>Update news data; a schedule can be selected to update the news data on the dashboard by selecting the tick box provided</p></li>
 </ol>
 </div></blockquote>
 </li>
@@ -218,30 +237,30 @@ The schedules widget allows for updates to the dashboards data to be scheduled. 
 <p>The code is structured, where there are 5 modules, each with a purpose and job in the composition of the dashboard.</p>
 <ul class="simple">
 <li><p>covid_data_interface:
-This is the main module that combines all other modules to create a flask interface with the appropriate data. This module handles the presetnation of news, creation/running/deletion of schedules
-and the presetnation of COVID 19 data. I have used OOP structures so that variables can be passed through effiecntly and so that I dont have many global variables.</p></li>
+This is the main module that combines all other modules to create a flask interface with the appropriate data. This module handles the presentation of news, creation/running/deletion of schedules
+and the presentation of COVID 19 data. I have used OOP structures so that variables can be passed through efficiently and so that I don’t have many global variables.</p></li>
 <li><p>covid_data_handler:
 This is a module that will handle the collection and processing, along with executing of due schedules of covid 19 data. There is a key function called covid_API_request, this is the function that will call the request
-for collecting the lastest covid 19 data from the uk_covid19 module. From there it is passed to another fucntion that will process the data so that we get 3 key values, 7 day infection rate, total deaths
-and the current hostpital addmissions.</p></li>
+for collecting the latest covid 19 data from the uk_covid19 module. From there it is passed to another function that will process the data so that we get 3 key values, 7 day infection rate, total deaths
+and the current hospital admissions.</p></li>
 <li><p>news_data_handling:
 This is a module that will handle the collection and processing, along with executing of due schedules of api news data. There is a key function called news_API_request, whose purpose is to collect the current news related to
 covid 19 using the request module and the newAPi module. Once collected the articles will be passed onto a processing function that will remove the unwanted covid 19 news articles that the user has chosen to remove.</p></li>
 <li><p>config:
-This is a module that will handle the openning and handling of the conig.json file. At the start of the module it will collect the relvant data from the config file so that it can be used elsewhere in other modules
+This is a module that will handle the opening and handling of the conig.json file. At the start of the module it will collect the relevant data from the config file so that it can be used elsewhere in other modules
 There are two main functions, one for writing in the config file and the other for removing executed schedules from the scheduler in the config file. Firstly the writing of the config file works by having a large list that contains
-manny other list in a dicitonary format. When changing the config file you change one part of this list and it will be updated in the config file when it is overwritten.</p></li>
+many other list in a dictionary format. When changing the config file you change one part of this list and it will be updated in the config file when it is overwritten.</p></li>
 <li><p>logging:
 This is a module that will handle the logging of events in the covid 19 dashboard. It will create logging files for each module so that they can record events</p></li>
 </ul>
 <p>## <strong>TESTING:</strong></p>
-<p>There is regularly intervaled testing that occurs in my program to check if its functionality is still working. I am using pytest and the sched module to create time delay to which the testing files and functions will run. There is an output in the terminal
-on the success of these tests. You will be able to find these test by looking for python files starting with “test_”.</p>
+<p>There is testing that occurs at the beginning of the codes execution when it is ran. I am using the module pytest to complete this.</p>
 <p>## <strong>APPENDIX</strong></p>
 <ul class="simple">
+<li><p>GitHub:
+link : <a class="reference external" href="https://github.com/sccthomas/ECM1400_CA">https://github.com/sccthomas/ECM1400_CA</a></p></li>
 <li><p>COVID 19 MODULE:
-link : <a class="reference external" href="https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/pages/getting_started.html">https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/pages/getting_started.html</a>
-]</p></li>
+link : <a class="reference external" href="https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/pages/getting_started.html">https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/pages/getting_started.html</a></p></li>
 <li><p>NEWS API MODULE:
 link : <a class="reference external" href="https://newsapi.org/docs/get-started">https://newsapi.org/docs/get-started</a></p></li>
 </ul>

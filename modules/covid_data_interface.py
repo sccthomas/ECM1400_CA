@@ -17,7 +17,7 @@ app = Flask(__name__)
 logging.basicConfig(filename='flask_logging.log', level=logging.INFO)
 #
 
-# pytest.main()
+pytest.main()
 
 
 class MyServer():
@@ -32,7 +32,7 @@ class MyServer():
         self.news_articles = ARTICLES  # news articles
         # run any schedules left in the config file
         self.schedule_widget_handling_running()
-        logger_interface.info('contrutor initiatied')
+        logger_interface.info('constructor initiated')
 
     def home(self) -> object:
         """[My flask decorator function]
@@ -40,12 +40,14 @@ class MyServer():
         Returns:
             object: [A render function to decorate the template]
         """
-        logger_covid_handler.info(scheduler_covid.queue)
+        logger_covid_handler.info(
+            scheduler_covid.queue)  # Log each scheduler to the logging files
         logger_news_handler.info(scheduler_news.queue)
         # run the schedules in the schedulers
-        scheduler_covid.run(blocking=False)
+        scheduler_covid.run(blocking=False)  # Run the schedulers
         scheduler_news.run(blocking=False)
         ##
+        # collecting the API data
         from covid_data_handler import local_covid_data, national_covid_data
         self.local_covid_data = local_covid_data
         self.national_covid_data = national_covid_data
@@ -102,7 +104,7 @@ class MyServer():
             time_delay = (datetime.datetime.strptime(time_set, '%H:%M') -
                           datetime.datetime.strptime(current_time, '%H:%M')).seconds
             logger_interface.info('schedule time calculated')
-            return time_delay  # return the calculated time delay
+            return int(time_delay)  # return the calculated time delay
         except ValueError:
             return redirect('/')
 
@@ -111,7 +113,7 @@ class MyServer():
         """
         for sched in schedule_config:  # go through each schedule in the schedules list
             update_type = sched['type']
-            time_delay = int(self.time_handler(sched['content'][0]))
+            time_delay = self.time_handler(sched['content'][0])
             title = sched['title']
             repeat = sched['repeat']
             if repeat is True:  # if the schedule is a repeat add 24hrs
@@ -179,7 +181,7 @@ class MyServer():
 
         Args:
             title (str): [the schedules title]
-            type (str): [the tyep of schedules it is]
+            type (str): [the type of schedules it is]
             content (str): [the data about the schedule]
             repeat (bool, optional): [Does the schedule repeat]. Defaults to False.
 
@@ -191,12 +193,12 @@ class MyServer():
         Dict_frame['type'] = type
         if repeat is False:
             try:
-                content.remove('repeat')
+                content.remove('repeat')  # checking if repeat version
             except:
                 pass
         Dict_frame['content'] = content
         Dict_frame['repeat'] = repeat
-        return Dict_frame
+        return Dict_frame  # return a dictionary of data to store in the config
 
     def updates_widget_handling_storing(self, update: dict) -> None:
         """[A function that will store a new schedule in a schedule list]
@@ -204,8 +206,9 @@ class MyServer():
         Args:
             update (dict): [The new schedules details]
         """
-        Dict_frame = {}
         # check if new schedule has an incorrect name
+        if update['update'] == '':
+            return
         if self.check_schedule_present(update['two']):
             logger_interface.info(
                 update['two']+' schedule already in schedul_config')
@@ -275,5 +278,5 @@ if __name__ == '__main__':
     # Adding URL rules so that when the URL meets a certain requirement a function is executed
     app.add_url_rule('/', view_func=server.home)
     app.add_url_rule('/index/', view_func=server.widget_handler)
-    app.run(debug=True)
+    app.run(debug=False)
     logger_interface.info('Server running')
