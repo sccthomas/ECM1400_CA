@@ -1,21 +1,19 @@
 """[This is a function that handles the config file ie read/write commands ]
 """
 import json
-
-
-'''try:
+# open the config file
+try:
     config_json = open('modules\config.json', 'r', encoding='UTF-8')
 except:
-    config_json = open('config.json', 'r', encoding='UTF-8')'''
-config_json = open('config.json', 'r', encoding='UTF-8')
-
+    config_json = open('config.json', 'r', encoding='UTF-8')
 contents = json.load(config_json)
-key = contents["Profile"]['Key']
-headlines = contents["Profile"]['News']
-schedule_config = contents['Profile']['Schedules']
-location = contents['Profile']['Location']
-language = contents['Profile']['Language']
-filters = contents['Profile']['Filters']
+key = contents["Profile"]['Key']  # API key
+headlines = contents["Profile"]['News']  # the articles they dont want
+schedule_config = contents['Profile']['Schedules']  # saved schedules
+location = contents['Profile']['Location']  # local location
+language = contents['Profile']['Language']  # langauge of the news
+filters = contents['Profile']['Filters']  # what news should be returned
+country = contents['Profile']['Country']  # the country they want
 
 
 def schedule_update_remove(update_name: str) -> None:
@@ -37,13 +35,9 @@ def write_json(data: dict) -> None:
     Args:
         data (dict): [the new config files data]
     """    ''''''
-    with open('config.json', 'w', encoding='UTF-8') as file:
-        json.dump(data, file, indent=2)
-
-
-'''    try:
+    try:
         with open('modules\config.json', 'w', encoding='UTF-8') as file:
-            json.dump(data, file, indent=2)
+            json.dump(data, file, indent=2)  # overwrite the config file
     except:
         with open('config.json', 'w', encoding='UTF-8') as file:
-            json.dump(data, file, indent=2)'''
+            json.dump(data, file, indent=2)  # overwrite the config file

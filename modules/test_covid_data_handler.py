@@ -97,3 +97,5 @@ def test_process_covid_json_data():
     assert results['7_days_infection'] == 609
     assert results['Hospital_cases'] == 5000
     assert results['Total_deaths'] == 144909
+test_parse_csv_data()
+

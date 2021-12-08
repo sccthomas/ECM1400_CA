@@ -1,0 +1,41 @@
+2021-12-08 13:30:53,640:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:30:53,641:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:30:53,828:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:30:53,828:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:30:53,829:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-08 13:30:54,163:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-08 13:30:54,173:INFO:covid_data_handler:parse_csv_data:230:csv file opened and formatted
+2021-12-08 13:30:54,173:INFO:covid_data_handler:process_covid_csv_data:209:Covid CSV file processed
+2021-12-08 13:30:54,364:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:30:54,366:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-08 13:30:54,370:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:31:04,489:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:31:04,489:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:31:04,671:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:31:04,671:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:31:10,286:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:32:10,501:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:33:10,623:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:34:06,664:INFO:covid_data_handler:schedule_covid_updates:40:schedule added to scheduler_covid
+2021-12-08 13:34:06,670:INFO:covid_data_interface:home:40:[Event(time=1638970506.6647308, priority=1, sequence=0, action=<function schedule_event at 0x000001E2EE62EE60>, argument=(), kwargs={'update_name': 'Mid-day update '})]
+2021-12-08 13:35:06,817:INFO:covid_data_interface:home:40:[Event(time=1638970506.6647308, priority=1, sequence=0, action=<function schedule_event at 0x000001E2EE62EE60>, argument=(), kwargs={'update_name': 'Mid-day update '})]
+2021-12-08 13:35:07,117:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:35:07,117:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:35:07,462:INFO:covid_data_handler:covid_API_request:155:Covid API data collected
+2021-12-08 13:35:07,462:INFO:covid_data_handler:process_covid_json_data:127:JSON API covid data processed
+2021-12-08 13:35:07,463:INFO:covid_data_handler:schedule_event:28:schedule removed from scheduler_covid
+2021-12-08 13:36:07,799:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:37:07,960:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:38:08,109:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:39:08,258:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:40:08,396:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:41:08,520:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:42:08,675:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:43:08,822:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:44:08,951:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:45:09,093:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:46:09,224:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:47:09,366:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:48:09,512:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:49:09,722:INFO:covid_data_interface:home:40:[]
+2021-12-08 13:50:09,969:INFO:covid_data_interface:home:40:[]

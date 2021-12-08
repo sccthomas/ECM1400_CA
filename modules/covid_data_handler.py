@@ -4,7 +4,7 @@
 import sched
 import time
 from uk_covid19 import Cov19API
-from config import schedule_update_remove, location
+from config import schedule_update_remove, location, country
 from handlers_logging import logger_covid_handler
 
 # covid scheduler
@@ -22,7 +22,7 @@ def schedule_event(update_name: str) -> None:
     # update the local covid data variable
     local_covid_data = process_covid_json_data(covid_API_request())
     national_covid_data = process_covid_json_data(covid_API_request(
-        'England', 'Nation'))  # update the national covid data
+        country, 'Nation'))  # update the national covid data
     # remove the schedule from the schedule list
     schedule_update_remove(update_name)
     logger_covid_handler.info('schedule removed from scheduler_covid')
@@ -234,4 +234,4 @@ def parse_csv_data(csv_filename: str) -> list:
 # assign my global variables the news API requests
 local_covid_data = process_covid_json_data(covid_API_request(location))
 national_covid_data = process_covid_json_data(covid_API_request(
-    'England', 'Nation'))
+    country, 'Nation'))

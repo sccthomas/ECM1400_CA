@@ -1,0 +1,36 @@
+2021-12-08 13:30:54,140:INFO:news_data_handling:news_API_request:85:News API collected and processed
+2021-12-08 13:30:54,140:INFO:news_data_handling:process_news_api:64:Articles have been filtered and processed
+2021-12-08 13:30:54,854:INFO:news_data_handling:news_API_request:85:News API collected and processed
+2021-12-08 13:30:54,855:INFO:news_data_handling:process_news_api:64:Articles have been filtered and processed
+2021-12-08 13:30:55,094:INFO:news_data_handling:news_API_request:85:News API collected and processed
+2021-12-08 13:30:55,095:INFO:news_data_handling:process_news_api:64:Articles have been filtered and processed
+2021-12-08 13:30:55,337:INFO:news_data_handling:news_API_request:85:News API collected and processed
+2021-12-08 13:30:55,338:INFO:news_data_handling:process_news_api:64:Articles have been filtered and processed
+2021-12-08 13:30:55,339:INFO:news_data_handling:update_news:42:test|| schedule added to scheduler_news
+2021-12-08 13:31:04,270:INFO:news_data_handling:news_API_request:85:News API collected and processed
+2021-12-08 13:31:04,271:INFO:news_data_handling:process_news_api:64:Articles have been filtered and processed
+2021-12-08 13:31:10,286:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:32:10,501:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:33:10,624:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:34:06,664:INFO:news_data_handling:update_news:42:Mid-day update || schedule added to scheduler_news
+2021-12-08 13:34:06,671:INFO:covid_data_interface:home:42:[Event(time=1638970506.6647308, priority=1, sequence=0, action=<function update_news_event at 0x000001E2EBDE9C60>, argument=(), kwargs={'update_name': 'Mid-day update '})]
+2021-12-08 13:35:06,817:INFO:covid_data_interface:home:42:[Event(time=1638970506.6647308, priority=1, sequence=0, action=<function update_news_event at 0x000001E2EBDE9C60>, argument=(), kwargs={'update_name': 'Mid-day update '})]
+2021-12-08 13:35:07,646:INFO:news_data_handling:news_API_request:85:News API collected and processed
+2021-12-08 13:35:07,646:INFO:news_data_handling:process_news_api:64:Articles have been filtered and processed
+2021-12-08 13:35:07,647:INFO:news_data_handling:update_news_event:29:ARTCILES updated
+2021-12-08 13:35:07,647:INFO:news_data_handling:update_news_event:30:Mid-day update || removed from scheduler_news
+2021-12-08 13:36:07,799:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:37:07,960:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:38:08,109:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:39:08,258:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:40:08,396:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:41:08,521:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:42:08,675:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:43:08,823:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:44:08,951:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:45:09,093:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:46:09,225:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:47:09,367:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:48:09,512:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:49:09,722:INFO:covid_data_interface:home:42:[]
+2021-12-08 13:50:09,969:INFO:covid_data_interface:home:42:[]

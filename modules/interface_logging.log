@@ -1,0 +1,27 @@
+2021-12-08 13:30:54,373:INFO:covid_data_interface:__init__:32:constructor initiated
+2021-12-08 13:30:54,374:INFO:covid_data_interface:time_handler:103:schedule time calculated
+2021-12-08 13:31:04,673:INFO:covid_data_interface:__init__:32:constructor initiated
+2021-12-08 13:31:10,286:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:32:10,502:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:33:10,624:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:34:06,662:INFO:covid_data_interface:widget_handler:267:user demands new schedule to be added
+2021-12-08 13:34:06,662:INFO:covid_data_interface:updates_widget_handling_storing:243:Mid-day update  schedule added to schedul_config
+2021-12-08 13:34:06,664:INFO:covid_data_interface:time_handler:103:schedule time calculated
+2021-12-08 13:34:06,664:INFO:covid_data_interface:schedule_widget_handling_running:126:Mid-day update new schedule created and running, with time delay60
+2021-12-08 13:34:06,671:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:35:07,648:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:36:07,799:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:37:07,960:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:38:08,109:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:39:08,258:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:40:08,396:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:41:08,521:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:42:08,675:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:43:08,823:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:44:08,951:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:45:09,093:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:46:09,225:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:47:09,367:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:48:09,512:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:49:09,722:INFO:covid_data_interface:home:55:Flask website decorated
+2021-12-08 13:50:09,969:INFO:covid_data_interface:home:55:Flask website decorated

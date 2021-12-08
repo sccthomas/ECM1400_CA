@@ -27,7 +27,7 @@ Dependencies that are not in the installation are:
   - covid_news_handling
   - covid_data_interface
 - Files
-  - config.json
+  - config.json (stored in modules folder)
   - nation_2021-10-28.csv
 
 ## **MODULE INSTALLS FOR PROGRAM:**
@@ -42,9 +42,15 @@ Dependencies that are not in the installation are:
 
 - EXECUTING CODE:
   In order to execute the code you must execute the covid_data_interface.py file and then go to http://127.0.0.1:5000/
+
+  Use the command : python -m covid_data_interface (You run this with the correct rootdir)
+
 - LOCATION:
   In-order to change the location used in the program and see relevant data to your location, you must edit the value for the key 'Location' in the config.json file.
   Once changed the appropriate data will appear after a restarting of the server (run code again).
+
+- COUNTRY:
+  In-order to change the country the dashboard shows you can edit the country label in the config.json file. \*Note these countries must be in the UK
 
 - LANGUAGE:
   In-order to change the language of the articles in the articles widget you can change this in the config file under the key 'Language'
@@ -96,7 +102,9 @@ The code is structured, where there are 5 modules, each with a purpose and job i
 
 ## **TESTING:**
 
-There is testing that occurs at the beginning of the codes execution when it is ran. I am using the module pytest to complete this.
+For testing I am using the pytest module. You will be able to run testing by entering this command to the cmd. This must be ran in the files directory.
+
+python -m pytest
 
 ## **APPENDIX**
 

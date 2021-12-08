@@ -2,13 +2,12 @@
 
 """
 import datetime
-import pytest
 import logging
 from werkzeug.utils import redirect
 from flask import Flask, render_template, request
 from news_data_handling import ARTICLES, scheduler_news, headlines, process_news_api, update_news, logger_news_handler
 from covid_data_handler import scheduler_covid, schedule_covid_updates, logger_covid_handler, schedule_update_remove, local_covid_data, national_covid_data
-from config import schedule_config, write_json, contents, location
+from config import schedule_config, write_json, contents, location, country
 from handlers_logging import logger_interface
 
 
@@ -16,8 +15,6 @@ app = Flask(__name__)
 # flask interface logging
 logging.basicConfig(filename='flask_logging.log', level=logging.INFO)
 #
-
-pytest.main()
 
 
 class MyServer():
@@ -65,7 +62,7 @@ class MyServer():
                                hospital_cases=self.national_covid_data['Hospital_cases'],
                                deaths_total=self.national_covid_data['Total_deaths'],
                                national_7day_infections=self.national_covid_data['7_days_infection'],
-                               nation_location='England',
+                               nation_location=country,
                                news_articles=self.news_articles[0:4],
                                updates=schedule_config,
                                image='covid.jpg')
